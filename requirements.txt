@@ -1,0 +1,11 @@
+faiss-cpu==1.13.2
+numpy==2.4.3
+openai==2.30.0
+google-adk==1.28.0
+google-genai==1.68.0
+requests==2.33.0
+python-dotenv==1.2.2
+pypdf==6.9.2
+yfinance==0.2.41
+pydantic==2.12.5
+litellm==1.58.1
