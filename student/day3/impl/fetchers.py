@@ -35,13 +35,6 @@ def fetch_nipa(query: str, topk: int = NIPA_TOPK) -> List[Dict[str, Any]]:
     - '공고/모집/지원' 같은 키워드로 사업 공고 문서를 우선 노출시킵니다.
     반환: Day1 web 스키마 리스트 [{title, url, content/snippet, ...}, ...]
     """
-    # TODO[DAY3-F-01]:
-    # 1) os.getenv("TAVILY_API_KEY","")로 키를 읽습니다.
-    # 2) 질의 q를 만들 때: f"{query} 공고 모집 지원 site:nipa.kr"
-    # 3) search_tavily(q, key, top_k=topk, timeout=DEFAULT_TIMEOUT, include_domains=["nipa.kr"])
-    # 4) 그대로 반환
-    # ───────────────────────────────────────────────────────────────
-    # 정답 구현:
     key = os.getenv("TAVILY_API_KEY", "")
     if not key:
         return []
@@ -61,10 +54,6 @@ def fetch_bizinfo(query: str, topk: int = BIZINFO_TOPK) -> List[Dict[str, Any]]:
     - include_domains=["bizinfo.go.kr"]
     - '공고/모집/지원' 키워드 보강
     """
-    # TODO[DAY3-F-02]:
-    # 위 NIPA와 동일한 패턴이며, site:bizinfo.go.kr / include_domains=["bizinfo.go.kr"] 를 사용
-    # ───────────────────────────────────────────────────────────────
-    # 정답 구현:
     key = os.getenv("TAVILY_API_KEY", "")
     if not key:
         return []
@@ -84,12 +73,7 @@ def fetch_web(query: str, topk: int = WEB_TOPK) -> List[Dict[str, Any]]:
     - 도메인 제한 없이 Tavily 기본 검색 사용
     - 가짜/홍보성 페이지 노이즈는 뒤 단계(normalize/rank)에서 걸러냅니다.
     """
-    # TODO[DAY3-F-03]:
-    # 1) 키 읽기
-    # 2) q = f"{query} 모집 공고 지원 사업"
-    # 3) search_tavily(q, key, top_k=topk, timeout=DEFAULT_TIMEOUT)
-    # ───────────────────────────────────────────────────────────────
-    # 정답 구현:
+
     key = os.getenv("TAVILY_API_KEY", "")
     if not key:
         return []
@@ -107,11 +91,7 @@ def fetch_all(query: str) -> List[Dict[str, Any]]:
     편의 함수: 현재 설정된 전 소스에서 가져오기
     주의) 실전에서는 소스별 topk를 plan을 통해 주입받아야 합니다.
     """
-    # TODO[DAY3-F-04]:
-    # - 위 세 함수를 순서대로 호출해 리스트를 이어붙여 반환
-    # - 실패 시 빈 리스트라도 반환(try/except로 유연 처리 가능)
-    # ───────────────────────────────────────────────────────────────
-    # 정답 구현:
+    
     results: List[Dict[str, Any]] = []
     try:
         results.extend(fetch_nipa(query))

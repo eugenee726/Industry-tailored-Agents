@@ -3,7 +3,7 @@
 Day1: 웹+주가+기업개요 에이전트 (강사용/답지 버전)
 - 역할: 사용자 질의를 받아 Day1 본체 호출 → 결과 렌더 → 파일 저장(envelope) → 응답
 - 본 파일은 "UI용 래퍼"로, 실질적인 수집/요약 로직은 impl/agent.py 등에 있음.
-- 주의: 학생용과 동일한 TODO 마커/설명을 유지하되, 아래에 '정답 구현'을 채워 넣었습니다.
+
 """
 
 from __future__ import annotations
@@ -51,15 +51,7 @@ def _extract_tickers_from_query(query: str) -> List[str]:
       2) 중복 제거(순서 유지)
       3) 불필요한 특수문자 제거 후 패턴 매칭
     """
-    # ----------------------------------------------------------------------------
-    # TODO[DAY1-A-02] 구현 지침
-    #  - re.findall을 이용해 패턴을 두 번 찾고(영문/숫자), 순서대로 합친 뒤 중복 제거하세요.
-    #  - 영문 패턴 예: r"\b[A-Z]{1,5}\b"
-    #  - 숫자 패턴 예: r"\b\d{6}\b"
-    #  - 반환: ['AAPL', '005930'] 형태의 리스트
-    # ----------------------------------------------------------------------------
-    # 정답 구현:
-    # 공백/구분자 정리 (슬래시, 콤마 등은 공백으로 치환하여 매칭 안정화)
+
     cleaned = re.sub(r"[\/,\|]", " ", query.upper())
 
     alpha_hits = re.findall(r"\b[A-Z]{1,5}\b", cleaned)   # 예: AAPL, NVDA, TSLA
@@ -85,13 +77,7 @@ def _normalize_kr_tickers(tickers: List[str]) -> List[str]:
       1) 각 원소가 6자리 숫자면 뒤에 '.KS'를 붙임
       2) 이미 확장자가 붙은 경우(예: '.KS')는 그대로 둠
     """
-    # ----------------------------------------------------------------------------
-    # TODO[DAY1-A-03] 구현 지침
-    #  - 숫자 6자리 탐지: re.fullmatch(r"\d{6}", sym)
-    #  - 맞으면 f"{sym}.KS" 로 변환
-    #  - 아니면 원본 유지
-    # ----------------------------------------------------------------------------
-    # 정답 구현:
+
     normalized: List[str] = []
     for sym in tickers:
         if re.fullmatch(r"\d{6}", sym):
@@ -116,23 +102,7 @@ def _handle(query: str) -> Dict[str, Any]:
     반환:
       merge된 표준 스키마 dict (impl/merge.py 참고)
     """
-    # ----------------------------------------------------------------------------
-    # TODO[DAY1-A-04] 구현 지침
-    #  - 1) api_key = os.getenv("TAVILY_API_KEY","")
-    #  - 2) tickers = _normalize_kr_tickers(_extract_tickers_from_query(query))
-    #       * 보강: looks_like_ticker()로 실제 티커처럼 생긴 것만 남기기
-    #         (예: "NIPA", "바우처" 같은 일반 단어가 주가 조회로 가지 않도록)
-    #  - 3) plan = Day1Plan(
-    #         do_web=True,
-    #         do_stocks=bool(tickers),
-    #         web_keywords=[query],
-    #         tickers=tickers,
-    #         output_style="report",
-    #       )
-    #  - 4) agent = Day1Agent(tavily_api_key=api_key, web_topk=6, request_timeout=20)
-    #  - 5) return agent.handle(query, plan)
-    # ----------------------------------------------------------------------------
-    # 정답 구현:
+
     import os
     from student.day1.impl.web_search import looks_like_ticker
 
@@ -180,18 +150,7 @@ def before_model_callback(
       6) LlmResponse로 반환
       7) 예외시 간단한 오류 텍스트 반환
     """
-    # ----------------------------------------------------------------------------
-    # TODO[DAY1-A-05] 구현 지침
-    #  - last = llm_request.contents[-1]; last.role == "user" 인지 확인
-    #  - query = last.parts[0].text
-    #  - payload = _handle(query)
-    #  - body_md = render_day1(query, payload)
-    #  - saved = save_markdown(query=query, route="day1", markdown=body_md)
-    #  - md = render_enveloped(kind="day1", query=query, payload=payload, saved_path=saved)
-    #  - return LlmResponse(content=types.Content(parts=[types.Part(text=md)], role="model"))
-    #  - 예외시: "Day1 에러: {e}"
-    # ----------------------------------------------------------------------------
-    # 정답 구현:
+ 
     try:
         last = llm_request.contents[-1]
         if last.role == "user":
@@ -214,7 +173,7 @@ def before_model_callback(
                 )
             )
     except Exception as e:
-        # 강사용: 에러 원인을 바로 확인할 수 있도록 간결 메시지 반환
+ 
         return LlmResponse(
             content=types.Content(
                 parts=[types.Part(text=f"Day1 에러: {e}")],
@@ -224,13 +183,7 @@ def before_model_callback(
     return None
 
 
-# ------------------------------------------------------------------------------
-# TODO[DAY1-A-06] Agent 메타데이터 다듬기
-#  - name: 영문/숫자/언더스코어만 (하이픈 금지)
-#  - description: 에이전트 기능 요약
-#  - instruction: 출력 형태/톤/근거표시 등 지침
-# ------------------------------------------------------------------------------
-# 정답 구현:
+
 day1_web_agent = Agent(
     name="Day1WebAgent",
     model=MODEL,
