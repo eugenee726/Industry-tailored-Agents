@@ -45,9 +45,6 @@ class Day3Agent:
         외부 API 키 등 환경변수 확인 (없어도 동작은 하되 결과가 빈 배열일 수 있음)
         - 예: os.getenv("TAVILY_API_KEY", "")
         """
-        # TODO[DAY3-I-02]: 필요한 키를 읽고, 인스턴스 필드로 보관(옵션)
-        # ----------------------------------------------------------------------------
-        # 정답 구현:
         self.tavily_key = os.getenv("TAVILY_API_KEY", "")
 
     def handle(self, query: str, plan: Day3Plan = Day3Plan()) -> Dict[str, Any]:
@@ -69,10 +66,7 @@ class Day3Agent:
           - 각 단계에서 예외가 난다면 최소한 비어 있는 리스트라도 반환하도록 하거나,
             상위에서 try/except로 감싼다(이번 과제에선 간단 구현 권장).
         """
-        # TODO[DAY3-I-03]: 위 단계 구현
-        # ----------------------------------------------------------------------------
-        # 정답 구현:
-        # 1) 소스별 TopK 반영
+
         _set_source_topk(plan)
 
         # 2) Fetch 단계

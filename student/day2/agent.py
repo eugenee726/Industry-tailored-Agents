@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Day2: RAG 도구 에이전트 (강사용/답지 버전)
+Day2: RAG 도구 에이전트
 - 역할: Day2 RAG 본체 호출 → 결과 렌더 → 저장(envelope) → 응답
-- 주의: 학생용 파일의 TODO 마커/설명은 유지했고, 아래에 '정답 구현'을 채워 넣었습니다.
+
 """
 
 from __future__ import annotations
@@ -22,11 +22,7 @@ from student.common.schemas import Day2Plan
 from student.common.fs_utils import save_markdown
 
 
-# ------------------------------------------------------------------------------
-# TODO[DAY2-A-01] 모델 선택
-#  - LiteLlm(model="openai/gpt-4o-mini") 등 경량 모델 지정
-# ------------------------------------------------------------------------------
-# 정답 구현:
+#모델 선택
 MODEL = LiteLlm(model="openai/gpt-4o-mini")
 
 
@@ -36,14 +32,7 @@ def _handle(query: str) -> Dict[str, Any]:
     2) agent = Day2Agent(index_dir=os.getenv("DAY2_INDEX_DIR","indices/day2"))
     3) return agent.handle(query, plan)
     """
-    # ----------------------------------------------------------------------------
-    # TODO[DAY2-A-02] 구현 지침
-    #  - index_dir = os.getenv("DAY2_INDEX_DIR", "indices/day2")
-    #  - plan = Day2Plan(index_dir=index_dir)
-    #  - agent = Day2Agent()
-    #  - payload = agent.handle(query, plan); return payload
-    # ----------------------------------------------------------------------------
-    # 정답 구현:
+
     index_dir = os.getenv("DAY2_INDEX_DIR", "indices/day2")
     plan = Day2Plan(
         index_dir=index_dir,
@@ -72,13 +61,7 @@ def before_model_callback(
     5) md = render_enveloped('day2', query, payload, saved)
     6) LlmResponse로 반환 (예외 발생 시 간단 메시지)
     """
-    # ----------------------------------------------------------------------------
-    # TODO[DAY2-A-03] 구현 지침
-    #  - last = llm_request.contents[-1]
-    #  - query = last.parts[0].text
-    #  - payload → 렌더/저장/envelope → 응답
-    # ----------------------------------------------------------------------------
-    # 정답 구현:
+
     try:
         last = llm_request.contents[-1]
         if last.role == "user":
