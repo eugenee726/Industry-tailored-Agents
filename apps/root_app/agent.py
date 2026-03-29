@@ -25,8 +25,8 @@ root_agent = Agent(
     description=ORCHESTRATOR_DESC,
     instruction=ORCHESTRATOR_PROMPT,
     sub_agents=[
-        day1_web_agent,
-        day2_rag_agent,
         day3_gov_agent,
+        day2_rag_agent,
+        day1_web_agent
     ],
 )

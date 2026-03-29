@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip show:*)",
+      "Bash(python -c \"import litellm.types\")",
+      "Bash(venv/Scripts/python -c \"import litellm.types\")",
+      "Bash(venv/Scripts/python -c \"from google.adk.agents import Agent; import inspect; src = inspect.getsource\\(Agent\\); print\\(src[3000:5000]\\)\")",
+      "Bash(venv/Scripts/python -c \"from google.adk.agents import BaseAgent; import inspect; src = inspect.getsource\\(BaseAgent\\); print\\([line for line in src.split\\(''\\\\n''\\) if ''sub_agent'' in line.lower\\(\\)]\\)\")",
+      "Bash(venv/Scripts/python -c \"from apps.root_app.agent import root_agent; print\\(''OK:'', root_agent.name\\); print\\(''sub_agents:'', [a.name for a in root_agent.sub_agents]\\)\")",
+      "Bash(venv/Scripts/adk web:*)",
+      "Bash(venv/Scripts/pip show:*)"
+    ]
+  }
+}
