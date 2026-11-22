@@ -1,0 +1,504 @@
+{"k": "0830c9fb7f29dc8927be31c79f29f7cb58370c1d8ad85c55fcc10ce5dc54f47f", "key": {"prompt": "v1", "query": "엔비디아 주가 지금 얼마야?", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "9b930d4a382672289b8bf354bfbfb680a92061225c63a3e39460f6dd877037a7", "key": {"prompt": "v1", "query": "엔비디아 주가 지금 얼마야?", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "2d8bfb222f5fc934a744d8fdb2f23609f15f583dcb7422d726536cdc8d1f14ad", "key": {"prompt": "v1", "query": "엔비디아 주가 지금 얼마야?", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "9585225f1c7e0d44f9500763a73d0fd48a172efe7d180709f7618634bd0cb294", "key": {"prompt": "v1", "query": "삼성전자 3분기 실적 발표 내용 알려줘", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "025b1f7f1c76658c28e93279dad133c64988911638bcab7cbe8eb31abef8855f", "key": {"prompt": "v1", "query": "삼성전자 3분기 실적 발표 내용 알려줘", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "d08095ff4ed0c201e4ad46f177e2c4f6f94a9418690040d8e79f38d9add652ce", "key": {"prompt": "v1", "query": "삼성전자 3분기 실적 발표 내용 알려줘", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "668b88c9f0499dc740b2ceccae467b04b9f79088a52a92b9e2c77ee3e49a4f19", "key": {"prompt": "v1", "query": "AAPL 최근 뉴스 정리해줘", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "194e66b78c8bd3ee0b561383567bac3d755263d3c62367224ee0fd7872758837", "key": {"prompt": "v1", "query": "AAPL 최근 뉴스 정리해줘", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "022f7d5158e345f6632f7b38b7e6490f0d94407b87a397f33f6082839414aea1", "key": {"prompt": "v1", "query": "AAPL 최근 뉴스 정리해줘", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "d6263f8e040cd8b93ffe7ed41aefa16f39c7be1d12b4c28720f7479e1fc5555d", "key": {"prompt": "v1", "query": "오늘 반도체 업계 동향 요약", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "785bf8ac523ebc3707294606f8aff14fea4d28e3f3c25117fe124b90f64f0a01", "key": {"prompt": "v1", "query": "오늘 반도체 업계 동향 요약", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "a9424bb8b0618f7b4217e6b99d6c7a1caabb43139fde079192693b29c0631226", "key": {"prompt": "v1", "query": "오늘 반도체 업계 동향 요약", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "4c72a1486a1579321e014d5be481543b77e10a40fbe74b0ad2652b72f2885965", "key": {"prompt": "v1", "query": "루닛이 어떤 회사인지 개요 알려줘", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "9d4a7b6d46a21e931b8339e7503fdd15d9eb2d1cc40806a09e09c4504bd2e5aa", "key": {"prompt": "v1", "query": "루닛이 어떤 회사인지 개요 알려줘", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "0f7356d691e0c5529bbff727c308ec491c7decb12a69afd9fc0273a6e95488f9", "key": {"prompt": "v1", "query": "루닛이 어떤 회사인지 개요 알려줘", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "281e078e939f3feb87557b4d0e0d0d7bc36cdc6a6574c11dead3f8c567e39f1d", "key": {"prompt": "v1", "query": "TSLA랑 NVDA 주가 비교해줘", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "73347ed3715823bdb41bb5a404ef35ca6e7b3447fb0abad39c0a34730e21e35c", "key": {"prompt": "v1", "query": "TSLA랑 NVDA 주가 비교해줘", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "37198902531ba1bc9b04a6db6714521a6a16bddbb15b56b098e8cf287c15fa71", "key": {"prompt": "v1", "query": "TSLA랑 NVDA 주가 비교해줘", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "ef9b8fafd8c06a0d6df8fb2b1d8e0f495053549ac82ddb3b336fc07f0fcb3c43", "key": {"prompt": "v1", "query": "생성형 AI 시장 최신 트렌드가 궁금해", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "4b4e06c8b3d1916a5234fdce8ffc3da962d23cbbc20732bf6fa608e4af5a52f9", "key": {"prompt": "v1", "query": "생성형 AI 시장 최신 트렌드가 궁금해", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "7d33d4cb4198270b7ddc2b3d679c2fc6196063bd04d1cf8e100ae3e14b8b5198", "key": {"prompt": "v1", "query": "생성형 AI 시장 최신 트렌드가 궁금해", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "d49a41ebedb31f55cdbc0253782683865cb404af125c6d32a86aa1292f96db24", "key": {"prompt": "v1", "query": "005930 시세 확인", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "d9b262b3fbcea643efbc3b18c5ea6c20def6ac09af19eca2eb6e4dd6b88ec3cb", "key": {"prompt": "v1", "query": "005930 시세 확인", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "729e33c3ed5adbc1d50562060a95951177553707c0eed65ad5891d052590ad4d", "key": {"prompt": "v1", "query": "005930 시세 확인", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "9253caf479e01e3b3ffb7b34dfa8f3b1b1a1ca89592e1d88ae660009dbe2e225", "key": {"prompt": "v1", "query": "뷰노 요즘 어때?", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "a2c57801aa06ea9fabfab914a4f91b77cf6ddc0e22642e1598a10cd4f88a054d", "key": {"prompt": "v1", "query": "뷰노 요즘 어때?", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "3576d4cc61a0215b4f31ad41f3955cf96d21b4327bcaf737ba82a2f6e654dba7", "key": {"prompt": "v1", "query": "뷰노 요즘 어때?", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "8d55309b62eb57295163027ec39b14ec5c798263e0817eda438835e126518407", "key": {"prompt": "v1", "query": "오픈AI 이번 주에 뭐 발표했어?", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "8912df3b45f4faa7ac68f4e41813cdc4e2197ef36d30e8a9b923de1dc581b29e", "key": {"prompt": "v1", "query": "오픈AI 이번 주에 뭐 발표했어?", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "1b9fd1939ce9654ae1d4cc3b8472c597a6d2ee247efe4e06b2696f160d31c4a2", "key": {"prompt": "v1", "query": "오픈AI 이번 주에 뭐 발표했어?", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "4d1a1c67120c83b014c0c8e9c9905ed504d3c96b57dce48c1c73ace454e9e0f6", "key": {"prompt": "v1", "query": "카카오헬스케어 최근 투자 유치 소식", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "85c1454a866dc776596987b102820ab5c3f691c8957f9f4991718541484039d4", "key": {"prompt": "v1", "query": "카카오헬스케어 최근 투자 유치 소식", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "8647d574227f2f0a347517d381897af980b31f81f1037effae2f1fbf78c9abaa", "key": {"prompt": "v1", "query": "카카오헬스케어 최근 투자 유치 소식", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "72afc545188b261288314e53191cd7aabc5f26bf8edaf14de402b89f182e4604", "key": {"prompt": "v1", "query": "헬스케어 스타트업 중에 요즘 핫한 곳 어디야", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "1b911c797c9c9bb28c2dc625d03111ff1436ce3e4a5fa1603598d42b5eea1387", "key": {"prompt": "v1", "query": "헬스케어 스타트업 중에 요즘 핫한 곳 어디야", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "38314a415419706b3098f4d71bcc92ce8c94e91d2237f60bc7611ceeefcc5ab3", "key": {"prompt": "v1", "query": "헬스케어 스타트업 중에 요즘 핫한 곳 어디야", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "695d9c83a0cfdf0405be94fedd5740178da5e097cf63b813f6e7e5710fce713d", "key": {"prompt": "v1", "query": "FDA가 최근에 승인한 AI 의료기기 뉴스 있어?", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "967110d3714375ea6f458e5aa9a159f440d6f4f80e12eb4a83e20515cd262a46", "key": {"prompt": "v1", "query": "FDA가 최근에 승인한 AI 의료기기 뉴스 있어?", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "2777c5e7c17c934a46533c7b95112789bfcb0c181a49ff27848fdced1b08cb1a", "key": {"prompt": "v1", "query": "FDA가 최근에 승인한 AI 의료기기 뉴스 있어?", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "35debf64fe7e654eb80815fb7f42e6df45103d6ea53f570285c2a50698d36a7b", "key": {"prompt": "v1", "query": "마이크로소프트 시가총액 순위", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "1d1756a08aec123910e0e3c76c32e9554be4d62eca578b7d2171cfddd88467f5", "key": {"prompt": "v1", "query": "마이크로소프트 시가총액 순위", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "0a6f8dbd915893441f7f3d16bbe581a6f29239bf23b2f7542218f0dae42726db", "key": {"prompt": "v1", "query": "마이크로소프트 시가총액 순위", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "7d4f18f63edebb3f45f9efd26feaea58ff565b6d557ce4d09f867aee22552408", "key": {"prompt": "v1", "query": "환율 오늘 1달러에 얼마야", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "f1c2f092f73a70d2e125e454f1d7d246fbf9457ee1f47f680dc344ffe88b4962", "key": {"prompt": "v1", "query": "환율 오늘 1달러에 얼마야", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "39ef6861c8a7a594a5ca6b5c094b58b039e18a0cb747d4a8480e3a677378b698", "key": {"prompt": "v1", "query": "환율 오늘 1달러에 얼마야", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "9c53b9f4a3341721341bab6c1a8d49ea97e91eda72eec95902ab2bef44c2f6fb", "key": {"prompt": "v1", "query": "네이버 하이퍼클로바X 관련 기사 찾아줘", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "c33998ab96590e5f3cec717bd2736c6870961e95e4508e9780e0a711f56215e4", "key": {"prompt": "v1", "query": "네이버 하이퍼클로바X 관련 기사 찾아줘", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "22e39304acadddb36c35aba01566fbf785ebe3a1da548fcf6593dd299466bb53", "key": {"prompt": "v1", "query": "네이버 하이퍼클로바X 관련 기사 찾아줘", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "9f325251e58392a5ffd8b2e68eb40e0022080058321f56a96fa1942aa43b8354", "key": {"prompt": "v1", "query": "의료 AI 업계에서 이번 달에 있었던 일", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "1f7f8b6753c8f772f5a41f4dae96aeca134d463fcac09d66faee719442f90b74", "key": {"prompt": "v1", "query": "의료 AI 업계에서 이번 달에 있었던 일", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "83690868113611bb775e145de3e85872bba27860779fb0bed2efbea7480c86e1", "key": {"prompt": "v1", "query": "의료 AI 업계에서 이번 달에 있었던 일", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "8cf55ea282c6268edf1fb0933493fbc99b6afa634990fa0a1352e9699f484900", "key": {"prompt": "v1", "query": "구글 딥마인드 최근 연구 성과 소식", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "f5489b4a8e7818cee28d4b99802dd0c0501b7d94e0cdff72b7c86e2d77d47ce5", "key": {"prompt": "v1", "query": "구글 딥마인드 최근 연구 성과 소식", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "0377481ecab09fdd1cbac54f92add8097e3fdc8a8d5f1a7a62f0be22467f9e0e", "key": {"prompt": "v1", "query": "구글 딥마인드 최근 연구 성과 소식", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "9f006649252b299246c03dd1099a5c50a696e56d31c4acdf8488801c56ff3c9b", "key": {"prompt": "v1", "query": "업로드한 문서에서 AI 의료기기 정의 부분 요약해줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "1d52d2ad1a394add5f2f5caa471c96a608cbc0169f6f29b1df184689223651f7", "key": {"prompt": "v1", "query": "업로드한 문서에서 AI 의료기기 정의 부분 요약해줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "4e44c31c940b6e5c86b0142053864ae22a299454fa6bf287a79dbf6c580b65a9", "key": {"prompt": "v1", "query": "업로드한 문서에서 AI 의료기기 정의 부분 요약해줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "daf548ca61c95867cd1e3df89e39a9b522bab3ccd50cc6ea54c2c95e92620e2f", "key": {"prompt": "v1", "query": "내부 자료 기준으로 디지털의료기기 변경허가 기준이 뭐야?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "c42e1320471e5fc6911e0d9543142996bdd3a502d59ad7aab82eea91e622068b", "key": {"prompt": "v1", "query": "내부 자료 기준으로 디지털의료기기 변경허가 기준이 뭐야?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "7c5a24fede12440871e9aa9724c110ea02434f7477e3a4a5c4cdd9c9f2aa5743", "key": {"prompt": "v1", "query": "내부 자료 기준으로 디지털의료기기 변경허가 기준이 뭐야?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "601f432037c3977394f5b1f4d2cb2e21608d1cd2d9cd4c5efbc8f78ed6cf18e7", "key": {"prompt": "v1", "query": "논문 자료에서 인공지능 의료기기 책임 문제를 어떻게 다루는지 근거와 함께 알려줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "f6f7c1903605b0d001eb356858951612b6a5ed7eea5a652678c0276063b5be26", "key": {"prompt": "v1", "query": "논문 자료에서 인공지능 의료기기 책임 문제를 어떻게 다루는지 근거와 함께 알려줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "021f8bf8b1738bb24d39e44fba2019c4b16eb2f2b340563c400e4d255318c3f1", "key": {"prompt": "v1", "query": "논문 자료에서 인공지능 의료기기 책임 문제를 어떻게 다루는지 근거와 함께 알려줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "119a052c78b474e3b610784ad30c8e13901d2d6be2b2fb4bb586c72c43df2188", "key": {"prompt": "v1", "query": "첨부 문서 내용 중 FDA 규제 연혁 정리", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "cd1e2befc14f03c0d0eed306dcc9f4758748b885dabb02be56c93e842bf34295", "key": {"prompt": "v1", "query": "첨부 문서 내용 중 FDA 규제 연혁 정리", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "25a6cc10f4e19e11cf1808fe02c7a05ed85457e79f5869f43b6d8ced032f6fb9", "key": {"prompt": "v1", "query": "첨부 문서 내용 중 FDA 규제 연혁 정리", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "1c61a916608ff61a6dc47e7e25bef42ab806ff2554db990967fd3a47a0d2e474", "key": {"prompt": "v1", "query": "자료에 나온 신의료기술평가 절차 설명해줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "b6d3e04e3b9239524cef07d0e4d6ec7d38b05ef781495d8a44b45907f5be0362", "key": {"prompt": "v1", "query": "자료에 나온 신의료기술평가 절차 설명해줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "4dd19ebf4bca9b9bd2cf3165b54cd3b0c1d46bb14ae9ae72f558183c785fcaa8", "key": {"prompt": "v1", "query": "자료에 나온 신의료기술평가 절차 설명해줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "29b50d0f7f08840b72fcc5fb3feaa0a38803f0084a583c4af903b6752b3639ac", "key": {"prompt": "v1", "query": "인공지능 의료기기 오작동 시 누가 책임져?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "ef61b14048c79913bb1199f71d690f3121fa19ff733bd850a42feba1a394be81", "key": {"prompt": "v1", "query": "인공지능 의료기기 오작동 시 누가 책임져?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "374a7f58d07e17a5f995c35e3831c4bb78f2893661bff5f4a61033c0b7eca9a3", "key": {"prompt": "v1", "query": "인공지능 의료기기 오작동 시 누가 책임져?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "fb85264be654a4758c53fee7436697b0ae2af011e99856df93125cf88080ff8f", "key": {"prompt": "v1", "query": "식약처 AI 디지털의료기기 허가 가이드라인 핵심이 뭐야", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "99121bc307ac5674a069c723b5a1f1b9ffb02dda3eb54b38ac5c9ed9b6f8bc40", "key": {"prompt": "v1", "query": "식약처 AI 디지털의료기기 허가 가이드라인 핵심이 뭐야", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "75350f0e339e3d6de5256c3a7e739ae2baec4f80b38a255a6d91fc5c22c2367d", "key": {"prompt": "v1", "query": "식약처 AI 디지털의료기기 허가 가이드라인 핵심이 뭐야", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "a3642e90a7bac9ee25a8cf5e0c99992e6e16bdb59986d482bfd6a5d73a04a639", "key": {"prompt": "v1", "query": "디지털의료제품법에서 디지털의료기기를 어떻게 정의해?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "9d90694064e2084856ceb813d236af1b2f15ce1a023df4d533316ab8411d76b1", "key": {"prompt": "v1", "query": "디지털의료제품법에서 디지털의료기기를 어떻게 정의해?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "c74ac4cc333a4c99175ab5eb7d6779884d7b052b9e1c24542404e68edd82d7e6", "key": {"prompt": "v1", "query": "디지털의료제품법에서 디지털의료기기를 어떻게 정의해?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "1e24a501e51165bb348c3c18c12829c43948317b01aff819b1539861220647c4", "key": {"prompt": "v1", "query": "의사가 AI 판단을 override해야 하는 이유", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "edfc534e1e869320ff1dead7603534f2adc2f96d432f94cd9fc34e3d44181d09", "key": {"prompt": "v1", "query": "의사가 AI 판단을 override해야 하는 이유", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "00dbdc88209723ab31af4a80cf3e93eb735188c73b369959cdf8d14b90fcbcad", "key": {"prompt": "v1", "query": "의사가 AI 판단을 override해야 하는 이유", "rep": 2}, "v": "NONE"}
+{"k": "bc01bf18c5ff33fa3e8d5ab6dab1f3f95d56abd4b99d56d885aba012b1476997", "key": {"prompt": "v1", "query": "AI 의료기기 무과실 보상제도 도입 논의 정리", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "b22fa49c69e42c43d64b9122e5c7bad214e9b133b9b1cc57c3771ea7b249a80a", "key": {"prompt": "v1", "query": "AI 의료기기 무과실 보상제도 도입 논의 정리", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "f1290afa1002c862b9cbb1ead455ae3cf8ed85dec882a48d93170824f98a7501", "key": {"prompt": "v1", "query": "AI 의료기기 무과실 보상제도 도입 논의 정리", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "54e417ab6f7c2ed143197c53ddf4e67b5078fe3895eaa468862b7f9761948c42", "key": {"prompt": "v1", "query": "문서 근거로 설명의무 위반과 AI 의료기기 관계 알려줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "4dae84e0cf84d73f7fd9f641f1b101fe0c22e5ff9ce71f9d1267578028a00032", "key": {"prompt": "v1", "query": "문서 근거로 설명의무 위반과 AI 의료기기 관계 알려줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "152514dd083c413d8b9b7a9b0af1c09c7b57bce4d6bf55a136051cdd11258783", "key": {"prompt": "v1", "query": "문서 근거로 설명의무 위반과 AI 의료기기 관계 알려줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "96ea98205d0b5fbfff9db4ecc56232c895b58e342117f074032e67838c366b01", "key": {"prompt": "v1", "query": "회의록 자료에서 결정사항만 뽑아줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "44212ad9ff7fb2711de41735f0a5e6f015d7ddaa6b0514c80285d78d6c28c125", "key": {"prompt": "v1", "query": "회의록 자료에서 결정사항만 뽑아줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "4fb29a75f17f1e216526e4acdd873f26ec914a5530c0939619c3c2fbedaa5a55", "key": {"prompt": "v1", "query": "회의록 자료에서 결정사항만 뽑아줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "98c4c2490325f5c7745da857d4069c82e93d527bfabffcc517978987a2374358", "key": {"prompt": "v1", "query": "보고서 파일의 결론 부분 요약", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "1fa8d8968a4756838b55bb3321787a6b0bf063e7e6b9372293309ef8a34ea6c1", "key": {"prompt": "v1", "query": "보고서 파일의 결론 부분 요약", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "1639aad636bd71e4ab2ac3350bbfd8a18734dc0452e91d484038c8cdad02afa1", "key": {"prompt": "v1", "query": "보고서 파일의 결론 부분 요약", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "57a93dd9291ddae0f6f86f7f908b98523e68d42635fa41f1afd1b30ee4930fc3", "key": {"prompt": "v1", "query": "미국이랑 한국 AI 의료기기 허가 건수 비교한 내용 있어?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "2b51e5468377510f1efa4a2b188421f9a0cab0770a0c47025375703d8872a956", "key": {"prompt": "v1", "query": "미국이랑 한국 AI 의료기기 허가 건수 비교한 내용 있어?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "2f20f379f9e0705c527c45bdae044a99d90b07a0e24853d4af164dcc84e66b1b", "key": {"prompt": "v1", "query": "미국이랑 한국 AI 의료기기 허가 건수 비교한 내용 있어?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "069b5895112c3e9fa7c713595555841912ec3bd51df43d97b3a8fb309a40cf05", "key": {"prompt": "v1", "query": "블랙박스 의료 AI 규제 쟁점", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "b6534159b2ba9869ef04684ddd01cd5a9f33c38a87ffcda99bb06405806baba3", "key": {"prompt": "v1", "query": "블랙박스 의료 AI 규제 쟁점", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "fa09a17b3f3b9e3e85bceea91f388125cb31a582fb16d4e592b38e1fdfa70f0b", "key": {"prompt": "v1", "query": "블랙박스 의료 AI 규제 쟁점", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "8eddb1856ad15782e05c2feb2de2c41cf6587c9c4bb889209a47ef682cda9be5", "key": {"prompt": "v1", "query": "공동 사업 책임(common enterprise liability)이 뭐야", "rep": 0}, "v": "NONE"}
+{"k": "f8a81c59cf47983c0d2f99bf5e4ebb6f6fcf5f40772081f749438cdfa5920981", "key": {"prompt": "v1", "query": "공동 사업 책임(common enterprise liability)이 뭐야", "rep": 1}, "v": "NONE"}
+{"k": "f4bf08b904ef947cf1234d19ed3716af8b819e56b1c53029aeca74a4dd3fb38a", "key": {"prompt": "v1", "query": "공동 사업 책임(common enterprise liability)이 뭐야", "rep": 2}, "v": "NONE"}
+{"k": "feb1c26a82f2c81f0428e1f17fcce958215515dc1fd8257ae3f4b5c2ad3a5f82", "key": {"prompt": "v1", "query": "MLMD가 기존 의료용 소프트웨어와 다른 점", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "620ff4025227f7ea3c636dc1b431142c0ade69ba3ea42e60aee39d92057b5dc2", "key": {"prompt": "v1", "query": "MLMD가 기존 의료용 소프트웨어와 다른 점", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "4dddff78c58b464f6de5419938f006ee1a3fd2eda702f90c0a667f799c991ac9", "key": {"prompt": "v1", "query": "MLMD가 기존 의료용 소프트웨어와 다른 점", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "21ea61a249331dddd230864bb5b709d81762ab6b868deda558459b648f34d9b7", "key": {"prompt": "v1", "query": "참고 문서 기준으로 AI 의료기기 규제 3단계 진화 설명", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "7d6ee915967ee6de58e1b3956c6b7abec61ec6391338d1dc0e5e242cb067bd4d", "key": {"prompt": "v1", "query": "참고 문서 기준으로 AI 의료기기 규제 3단계 진화 설명", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "50d9a53627ce1d9a78bfa9a4656b76936278389e81a2bc13c1a557619808c5ac", "key": {"prompt": "v1", "query": "참고 문서 기준으로 AI 의료기기 규제 3단계 진화 설명", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "03ed0914c5c0295867779fbf34403293e85e610dd5d96207ac0b52b9b2266cd0", "key": {"prompt": "v1", "query": "AI 바우처 지원사업 공고 찾아줘", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "8b96e66f6fb5360310bc4595660b9afbb13d7c6dd1f99f17216fd9ba27631faf", "key": {"prompt": "v1", "query": "AI 바우처 지원사업 공고 찾아줘", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "d0dfbdc7d6cc0438dbd7f6b23cd7a32502c8309087a4a155b1baaf32924e0d1d", "key": {"prompt": "v1", "query": "AI 바우처 지원사업 공고 찾아줘", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "d2e70d7237d43e817a9221186a7b98386a0666cc52e8e3edcc9d16c6a6ce847c", "key": {"prompt": "v1", "query": "NIPA 2026년 모집 공고 있어?", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "54bac3081e5fd1e7176a20b77ff625982069ffb6b7fed1a4e4a0b31c34cfe188", "key": {"prompt": "v1", "query": "NIPA 2026년 모집 공고 있어?", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "a04e6880d21d85e4782d7372a5e5388849a45497363119fc786a5e68441a5831", "key": {"prompt": "v1", "query": "NIPA 2026년 모집 공고 있어?", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "1e76e79321b80237d65815f3d472f629fbcd53f007635dc2ca2d5270a6bb8cea", "key": {"prompt": "v1", "query": "중소기업 R&D 지원금 신청할 수 있는 사업", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "ebd13201735d155e43b4f969f0ffaaa5a591f889fcca9716212978f96bdd67a9", "key": {"prompt": "v1", "query": "중소기업 R&D 지원금 신청할 수 있는 사업", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "fe7d977a563912b09f81b437494a1b60c39d8b14453bea285c59ea50a0d5a32c", "key": {"prompt": "v1", "query": "중소기업 R&D 지원금 신청할 수 있는 사업", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "a29cfb91bea1ffc0571abd1e61e87810973c0211827fe1673b22690b8bdb64f8", "key": {"prompt": "v1", "query": "기업마당에 올라온 헬스케어 지원사업", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "6c31fa013fe5a080c9f66bf877e76b9e60271e41b91c5b682c8de540a292c5d6", "key": {"prompt": "v1", "query": "기업마당에 올라온 헬스케어 지원사업", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "d1cc939c1de95c4863f9da48b2ece76f33eee29b0c7b069da12a56e52c46cb0c", "key": {"prompt": "v1", "query": "기업마당에 올라온 헬스케어 지원사업", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "ed20dd95a47c59135786bdc737c00e4f8af2300cb9749c4c8f3b0427336e0e42", "key": {"prompt": "v1", "query": "나라장터 AI 관련 입찰 공고", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "439b748d422c6f1f7b85a484a4ab3619cb3bdce51e1d17bfb082926b8935d84b", "key": {"prompt": "v1", "query": "나라장터 AI 관련 입찰 공고", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "2428d16371e5d3fb596ac1384924838a4570666b29b2cbf917d41a247d42f53f", "key": {"prompt": "v1", "query": "나라장터 AI 관련 입찰 공고", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "b6152855832b5d55a44bffe605d00c7636b3e5c20d566eb236a3b4a9d52b7b8e", "key": {"prompt": "v1", "query": "디지털헬스케어 실증 과제 RFP 나온 거 있어?", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "1a4831a6ca61dc9836de0991fd9e758beabd08f821334f27bcbb0417ce352d33", "key": {"prompt": "v1", "query": "디지털헬스케어 실증 과제 RFP 나온 거 있어?", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "dbed692a648c3ff3ae9f478e2bcf1ece9f0d32a3a29ca237e5b6590bcf66abf2", "key": {"prompt": "v1", "query": "디지털헬스케어 실증 과제 RFP 나온 거 있어?", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "fc07346f1a4937610347456ae5fe70fdd9e608e278e8f45ecbe17bca13f09fca", "key": {"prompt": "v1", "query": "스타트업이 받을 수 있는 정부 돈 뭐 있어", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "986db82533a9cca555cb6ad41e0af632266995d90ef368d4d048b449b1ed9e55", "key": {"prompt": "v1", "query": "스타트업이 받을 수 있는 정부 돈 뭐 있어", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "1dcde3aa6a0478c0ae0c1c18b1af1540f7147a99b068f0bc73897ca284aadf3d", "key": {"prompt": "v1", "query": "스타트업이 받을 수 있는 정부 돈 뭐 있어", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "44674c76f9cd9dbf75d12b87deebbf7acfeb155f61b675f130bdfbff0022ac1c", "key": {"prompt": "v1", "query": "의료 AI 회사가 지원할 만한 국가 사업 알려줘", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "44784886f78037c282fec5ded53f006e9b5943d1d40dbd0b1e13c85ecf4ad0c9", "key": {"prompt": "v1", "query": "의료 AI 회사가 지원할 만한 국가 사업 알려줘", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "1fba9344eb672247844d22503fa9cba0a9ad4fc5d1b59d416f2f68a3421369b7", "key": {"prompt": "v1", "query": "의료 AI 회사가 지원할 만한 국가 사업 알려줘", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "0f3611aaf5913dcaf0c3d7bac4603922035b3d5f03a80bf1eafed7e495aa05e8", "key": {"prompt": "v1", "query": "이번 달 마감인 창업 지원 프로그램", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "04332ba422e821d5d199e6cde63d6cb416819d640a454449ccd72d31b87448ae", "key": {"prompt": "v1", "query": "이번 달 마감인 창업 지원 프로그램", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "bccc19a35f3909a62a8f49fb1894d2c7323800eb81426ec0c03343224097ab17", "key": {"prompt": "v1", "query": "이번 달 마감인 창업 지원 프로그램", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "384d07990251c609a5a450eb41ebb0e3d14df4b3527ee085fe8f61cbcc273997", "key": {"prompt": "v1", "query": "K-Startup 예비창업패키지 모집 일정", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "4288160460656944a285889ecddcc017442e6ddd4fc57677e94e466d6271ffe9", "key": {"prompt": "v1", "query": "K-Startup 예비창업패키지 모집 일정", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "a14854df460a0a5a3cbbadcc32d3825d84b5a97a8acab19671a5a60283c5810c", "key": {"prompt": "v1", "query": "K-Startup 예비창업패키지 모집 일정", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "9c68f82522c6526b594b5e82785d0b813b0a7fded6958e4c8a785868623ba0cc", "key": {"prompt": "v1", "query": "클라우드 이용 바우처 신청 기간", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "3154051c78c331ee51f05a525378cdc49ed126c4d0278f2419190483a9dd990f", "key": {"prompt": "v1", "query": "클라우드 이용 바우처 신청 기간", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "2764d7b6f2ae9f2b18ea059705313db2d174ebc6897fa4eb028ecfa44a20bb73", "key": {"prompt": "v1", "query": "클라우드 이용 바우처 신청 기간", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "5ae28e57c48ed02e4ef658ff3118ceff861391c3ef3081f3c57020c2a2e83a54", "key": {"prompt": "v1", "query": "데이터 가공 지원사업 공모", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "9c7b5138883b2545524f420c8e61ce62d03ae4fa2d3bfe08495e31a6d021af69", "key": {"prompt": "v1", "query": "데이터 가공 지원사업 공모", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "2f6ca179caee21f6d4b6912f3f1794f8c11f1496266c10d27e321bf8e76f903f", "key": {"prompt": "v1", "query": "데이터 가공 지원사업 공모", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "350c10b1e19223e2e245d3ef0dfe90d760c8a426277ba9d829548fd2e428b98f", "key": {"prompt": "v1", "query": "AI 의료기기 인허가 컨설팅 지원해주는 사업 있나?", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "1d06b20edbc371791d9dce9b137e9c151d061d0d492e51c772ed55a4beb56bd6", "key": {"prompt": "v1", "query": "AI 의료기기 인허가 컨설팅 지원해주는 사업 있나?", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "670028dbc7665c37a57df559eaed4ca008a95b76f0ad05936c4325fb4c74ba0b", "key": {"prompt": "v1", "query": "AI 의료기기 인허가 컨설팅 지원해주는 사업 있나?", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "5fe998906d894c3d9c109f125a32f7ba96418807bda114600adcc0195cd6f097", "key": {"prompt": "v1", "query": "조달청에 올라온 SW 개발 용역 건", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "de7c83554b7bf393159ed6be323f6f40820c8389bbc90ec2dd797cd8017b403b", "key": {"prompt": "v1", "query": "조달청에 올라온 SW 개발 용역 건", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "304499b8e8ea2cae9b64169eeb58e71dd70767ec4f788d124cba01239413b0c2", "key": {"prompt": "v1", "query": "조달청에 올라온 SW 개발 용역 건", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "bfac33f5f0086b83bf6537bfafd70e4ceca4bdde827007744617666183d805c5", "key": {"prompt": "v1", "query": "수출 바우처 모집하는 곳", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "0406b99b6ff087e1fe9d7df771d1fcf8c01e8e2db1f44893bac0c48720081ae8", "key": {"prompt": "v1", "query": "수출 바우처 모집하는 곳", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "25ae098761f846e94e41aeccf45138416d49a7a590939bbac461b537897a9bcd", "key": {"prompt": "v1", "query": "수출 바우처 모집하는 곳", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "c076d709fa7d7deca04634ceb582d8dc879ac117831c470af81a16643e7b15fe", "key": {"prompt": "v1", "query": "과기정통부 AI 융합 프로젝트 과제 공고", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "31c0750813d89eb6f32f434832aa8bb8b796bc906eb29f64d28b4f897d429765", "key": {"prompt": "v1", "query": "과기정통부 AI 융합 프로젝트 과제 공고", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "5f408423bcdf6684ffb1c2573eac5941d0598c458c9b1ee672b311bc205609c5", "key": {"prompt": "v1", "query": "과기정통부 AI 융합 프로젝트 과제 공고", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "9492cb743c87aadb3201a1583f9c13230118e152d5f5f98b719e358e0203978d", "key": {"prompt": "v1", "query": "청년 창업자 대상 정부 보조금", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "fff093d65df3a81a96641a587eca35f6d5872291ceade3684dda178b7c4452fc", "key": {"prompt": "v1", "query": "청년 창업자 대상 정부 보조금", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "1e59267f75a388ba2539216db4d90f1375faafe658759b303931773546c2739b", "key": {"prompt": "v1", "query": "청년 창업자 대상 정부 보조금", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "e05450d02775f11fc4aecfbf9c436784c2228cbc8e1567c73535d6dfb2a6ce99", "key": {"prompt": "v1", "query": "정보통신산업진흥원에서 하는 사업 중에 지금 신청 가능한 거", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "03bc3feb802243533bd18225bd209a85f595dcd70a82c4e0554ccf8ab96f47f4", "key": {"prompt": "v1", "query": "정보통신산업진흥원에서 하는 사업 중에 지금 신청 가능한 거", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "c96ae2555ff5e36a538dbf3f8e0b716f9ae33cbdd2611a7f4e501956fceaaf1c", "key": {"prompt": "v1", "query": "정보통신산업진흥원에서 하는 사업 중에 지금 신청 가능한 거", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "09803a80382c4643b17e05a4ae8245d74a94f2c8b1eca631241dc22f95a6fafe", "key": {"prompt": "v1", "query": "AI 의료기기 규제가 요즘 어떻게 바뀌고 있어?", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "8447e0103a1a101e2dccd03768911f18f240793fdc173b7ae70b9722fd254921", "key": {"prompt": "v1", "query": "AI 의료기기 규제가 요즘 어떻게 바뀌고 있어?", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "336b035b51f6095770ad15d5cf8e3cbf02cc459d59d7e7e46456c8a1de10bd3b", "key": {"prompt": "v1", "query": "AI 의료기기 규제가 요즘 어떻게 바뀌고 있어?", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "53788c8b66a3a101c4642987d10a01c3e8216a8b5572ded595cd9fdb1e54d702", "key": {"prompt": "v1", "query": "식약처 가이드라인 관련 최신 기사", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "ead19602fded209d41dd1fd2fd9931db017a7f328b7989cc5af168d7df6ed530", "key": {"prompt": "v1", "query": "식약처 가이드라인 관련 최신 기사", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "80d14767a60ba631939ae3be4e723774a0b9555d481ebf1f9cb20654268213c1", "key": {"prompt": "v1", "query": "식약처 가이드라인 관련 최신 기사", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "11d22af8276889ef0c41f75a5d3b943961b348d8d0ded5497044ceb45bc474a5", "key": {"prompt": "v1", "query": "의료 AI 지원사업이랑 규제 이슈 같이 알려줘", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "26e14b246cab1500d787f36dbf43243d4188e12d0ddd83b9de04b40e620014fe", "key": {"prompt": "v1", "query": "의료 AI 지원사업이랑 규제 이슈 같이 알려줘", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "d776e85f327128407629b9a2370d2ec47c132fca810473b06923382c31fd43a4", "key": {"prompt": "v1", "query": "의료 AI 지원사업이랑 규제 이슈 같이 알려줘", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "ad10c3de65058889cdbe711b7e92e13ec0c9247234261a284484c95994e5883f", "key": {"prompt": "v1", "query": "헬스케어 AI", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "83e0c52fbbceb06a1ebe4499ce812aa484ed9e4068e7ede4ff8f8490cbe3f00d", "key": {"prompt": "v1", "query": "헬스케어 AI", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "9967a26dad96b260b3deb3574a7a4a88c77d983512dd347816b67ce1d6e9daa2", "key": {"prompt": "v1", "query": "헬스케어 AI", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "798691f828bf903161eaac210c0a762994286544cabdc504870607034dcc4d1c", "key": {"prompt": "v1", "query": "루닛 주가랑 AI 의료기기 책임 논의", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "6a7f3b623cdc38a9bff3c4c7b6844bf96fe397e3fceffb3c965ee2efbc9cfc87", "key": {"prompt": "v1", "query": "루닛 주가랑 AI 의료기기 책임 논의", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "589296d4f32ea837cbaf5b35ebb6e2c8d66536a8fb337d73543d169b3ace769f", "key": {"prompt": "v1", "query": "루닛 주가랑 AI 의료기기 책임 논의", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "189b43eb94593ad13bdec892ae2c2d476957f72652f349a107718108388cc898", "key": {"prompt": "v1", "query": "AI 진단 보조 소프트웨어 관련해서 알려줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "81a84bad64330b17b7c84e5d1ff36eddc5d16fb37a34a1950f4e12ddb52553a5", "key": {"prompt": "v1", "query": "AI 진단 보조 소프트웨어 관련해서 알려줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "34bf24a5c4dbae0e1cbaec88b518176896ee6744e1600f696b874abb101be215", "key": {"prompt": "v1", "query": "AI 진단 보조 소프트웨어 관련해서 알려줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "fe82d1195ccd2f7cf764b4b12b94287a6a36ce249bb5a88805c77183c54fe803", "key": {"prompt": "v2", "query": "엔비디아 주가 지금 얼마야?", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "f94d88d3e188d72f4e9ebc3dae4e2eecf13850073493c6a5dc70b9358c3cf433", "key": {"prompt": "v2", "query": "엔비디아 주가 지금 얼마야?", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "17727f1aecd4706f4820a92858833c4c41eae5fa90cd9cc1c6a9b1772c0de733", "key": {"prompt": "v2", "query": "엔비디아 주가 지금 얼마야?", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "7e29e6fa32d2a5d0735a2c18783a56af21b86b7582da2ceb7df86e9d7db84e66", "key": {"prompt": "v2", "query": "삼성전자 3분기 실적 발표 내용 알려줘", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "c0bf83bca0d04b62c93b40604785ca90d61e55bb4665a4915db1f2cd4b0f0f1e", "key": {"prompt": "v2", "query": "삼성전자 3분기 실적 발표 내용 알려줘", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "0fa425321b683d4de697b23d71aed0e87abed7c3e87c7221d782855436c3a761", "key": {"prompt": "v2", "query": "삼성전자 3분기 실적 발표 내용 알려줘", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "a544dcb231749ab13c87fed1e0895f35e35b64c61d8a619fa2e51868c4998659", "key": {"prompt": "v2", "query": "AAPL 최근 뉴스 정리해줘", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "c4af42e51714f54290c75f1b0a7e1795146f37c667c62aa3aa47279d5a82eb8f", "key": {"prompt": "v2", "query": "AAPL 최근 뉴스 정리해줘", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "c2c0ee8110c17e104a801230c1b7c3365fca1156763af0c9e72dd88ce1eb29ee", "key": {"prompt": "v2", "query": "AAPL 최근 뉴스 정리해줘", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "c8aec38314a0a898c04cb94c7a5db7d455a6764f9108d1eb0cbe63f7bfcc28d6", "key": {"prompt": "v2", "query": "오늘 반도체 업계 동향 요약", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "cd1d588573283ced694519332bb3dde91b2ff2d362894bf059d09fa4e8e679f4", "key": {"prompt": "v2", "query": "오늘 반도체 업계 동향 요약", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "9ed0974d6cb4890a07258ce382430208603917049e18e74811ff3caab91073d0", "key": {"prompt": "v2", "query": "오늘 반도체 업계 동향 요약", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "353a38edbb8cb0dc3b2821ecfa509fbca7adf3d98f271a4e3a317e02327ca95d", "key": {"prompt": "v2", "query": "루닛이 어떤 회사인지 개요 알려줘", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "64bcf9e2b966ac643ac9f6fb3b9357c3392af7c5a0352b117c09e8ce0332eb57", "key": {"prompt": "v2", "query": "루닛이 어떤 회사인지 개요 알려줘", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "5d3a8db598fdb7170372cee3f9684125e1c45997ff3f08ffd103c8478b81bf12", "key": {"prompt": "v2", "query": "루닛이 어떤 회사인지 개요 알려줘", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "f17f7aa50c2c054fe6caea7f8c91f3c9abbdf9807f888ab794cf8ed8d1162dac", "key": {"prompt": "v2", "query": "TSLA랑 NVDA 주가 비교해줘", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "3297c7276a9cb8cf083c4e7862a15ac5285310904c0b07e6d17cce10ae6887af", "key": {"prompt": "v2", "query": "TSLA랑 NVDA 주가 비교해줘", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "d8e3a1dd57e16b09a083758afa0df396fdeafd8ccdf7078f78b76bf06664f8d6", "key": {"prompt": "v2", "query": "TSLA랑 NVDA 주가 비교해줘", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "b9baed51184980c3706cd46385a42171ed415812b284b4b4a0b9ee623cfa8697", "key": {"prompt": "v2", "query": "생성형 AI 시장 최신 트렌드가 궁금해", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "c18b0d65d351be7cace7b88e70fa33cf2850abee666e3bef37232b82be95a983", "key": {"prompt": "v2", "query": "생성형 AI 시장 최신 트렌드가 궁금해", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "c4a362542f10f139b9d01f90d5da107d5664d21f0daa0720354ad38268af7781", "key": {"prompt": "v2", "query": "생성형 AI 시장 최신 트렌드가 궁금해", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "c9698c692b55ead333594088db7a5da6dd76279f5456a7c47ae640b050fba252", "key": {"prompt": "v2", "query": "005930 시세 확인", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "5c6b2a8603ae2367ead247ebb297ecc0336b5c475b41c3bdf86a73e651240a26", "key": {"prompt": "v2", "query": "005930 시세 확인", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "7a6477a13720af0ea4c22126a1b942997f7ce5534f9f1bb183003e5f86c1c3c8", "key": {"prompt": "v2", "query": "005930 시세 확인", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "b805d6aa722999d4914a4568d09043b1a5b82f6fccf911fd7902ea10ae9facee", "key": {"prompt": "v2", "query": "뷰노 요즘 어때?", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "03ec46afd2a7e9fe7b434a723486a5a901ec8834d90d0726f64674486e500a5a", "key": {"prompt": "v2", "query": "뷰노 요즘 어때?", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "8451cdf957870a62b0de06ffb2534e7e8ba85cd90036ab04e45e540f70d4c6af", "key": {"prompt": "v2", "query": "뷰노 요즘 어때?", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "d75fb5168d4b5a472cfe4b55f008583c7665ab9b001c7e0b2cc4a51505adca4a", "key": {"prompt": "v2", "query": "오픈AI 이번 주에 뭐 발표했어?", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "ea540b334c1d5b086979b4f29b9e015dc2f1bad886960e5d28fd8f9819f8179e", "key": {"prompt": "v2", "query": "오픈AI 이번 주에 뭐 발표했어?", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "480e91125b49538c479fbe1023a4693d917586f155ec39019766bf71ebab8274", "key": {"prompt": "v2", "query": "오픈AI 이번 주에 뭐 발표했어?", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "7edc113fafb5483abc0de9d5586d5e019cc44ea8d966b802b415bd5486a55dee", "key": {"prompt": "v2", "query": "카카오헬스케어 최근 투자 유치 소식", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "4b41374ee2185329edf7a89663de64643fa2d744ea0cd31eb67ea346e6813a4e", "key": {"prompt": "v2", "query": "카카오헬스케어 최근 투자 유치 소식", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "f8c56e68fed783f1e806ddff1882c83d85f5d9b415e1f054215d2c7bc4e775ea", "key": {"prompt": "v2", "query": "카카오헬스케어 최근 투자 유치 소식", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "fb8476c3508f50de139106ccb62d043e0701fc83f639466843a4498cce5f7dbf", "key": {"prompt": "v2", "query": "헬스케어 스타트업 중에 요즘 핫한 곳 어디야", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "8b1ec02d79ce98cff88c0b1f5e161f1e002331198f6ea1056cdebf86145e9f1d", "key": {"prompt": "v2", "query": "헬스케어 스타트업 중에 요즘 핫한 곳 어디야", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "873006576f7f91729b6ec920e5f6da759c993a29e31ffcdc4e223dc9a5b83e81", "key": {"prompt": "v2", "query": "헬스케어 스타트업 중에 요즘 핫한 곳 어디야", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "e82e06373794af5b0311baf96cb3de280d301e5743750652a3ad25546bfcac89", "key": {"prompt": "v2", "query": "FDA가 최근에 승인한 AI 의료기기 뉴스 있어?", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "4c857d417f2944aabc2c78fdfa8a1d2192875a79d2adef5de8d71b1ee79ab9b9", "key": {"prompt": "v2", "query": "FDA가 최근에 승인한 AI 의료기기 뉴스 있어?", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "5df1947f43664cbe98a6dfd9a14f252994d5d395d64226cef1b2189785d2a710", "key": {"prompt": "v2", "query": "FDA가 최근에 승인한 AI 의료기기 뉴스 있어?", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "8d8a5f75f41c909ee7cfe1daf3b92b700b360f5de85e47f03b0f719e3aab1397", "key": {"prompt": "v2", "query": "마이크로소프트 시가총액 순위", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "421398ac85bd277553da2b96034ed0747b470db5dd37505653b2c2a0eec6c233", "key": {"prompt": "v2", "query": "마이크로소프트 시가총액 순위", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "d80b32214e88cd1decc27ba71ba02e272b76a9132ddda9e449aec5bd4a89ac03", "key": {"prompt": "v2", "query": "마이크로소프트 시가총액 순위", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "6f9f247b41493a0f9609bcae7035a1e6f0dfa61f1bf818f5940ff4c313f17cea", "key": {"prompt": "v2", "query": "환율 오늘 1달러에 얼마야", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "ae80f6bb5eda44701a5e62d0b70f1affd5df78b1e242294a76f15a6d99ba9f33", "key": {"prompt": "v2", "query": "환율 오늘 1달러에 얼마야", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "66295beb474319c90050200d1ce76964c4740cd6a97833cb18705bb4f19384bb", "key": {"prompt": "v2", "query": "환율 오늘 1달러에 얼마야", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "7dc8fad169a67bf0203e6d00681312e2aeb7df73ce80465a6dac801c9cf9b433", "key": {"prompt": "v2", "query": "네이버 하이퍼클로바X 관련 기사 찾아줘", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "1918218743b69ec8c9205b34e4fd0e0ed168f2c2c3763bd7c23ec91c6b14076d", "key": {"prompt": "v2", "query": "네이버 하이퍼클로바X 관련 기사 찾아줘", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "b330bba12f646b422b6d17c208ece31b021d3c44b8690c82b8f2f66b51374665", "key": {"prompt": "v2", "query": "네이버 하이퍼클로바X 관련 기사 찾아줘", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "d0b00d3e19e1a48486bcecb3a72f2b2df9408a9e2c6eb63b1caeb6a34bd9d9e9", "key": {"prompt": "v2", "query": "의료 AI 업계에서 이번 달에 있었던 일", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "5acb373e5c28ed4d5c1f1af5c0f236663778f6dbf687ceade520683f744f8c5e", "key": {"prompt": "v2", "query": "의료 AI 업계에서 이번 달에 있었던 일", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "5d9041e86f77182bdfde4fdad6b86711bb725aa4779aa48e45346e9c94848582", "key": {"prompt": "v2", "query": "의료 AI 업계에서 이번 달에 있었던 일", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "502c65e2e14797da6ca106d8c771e18b321f26f63bab921f7ed0fa4998d8edc6", "key": {"prompt": "v2", "query": "구글 딥마인드 최근 연구 성과 소식", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "754660878540a47c8c58222c5559059a9402bbd91af02fef7a91a7b3885cd367", "key": {"prompt": "v2", "query": "구글 딥마인드 최근 연구 성과 소식", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "fac5ba9fd66b3f396f090e15c54aac8120bf5f4b890c0ab4eb6e441c40dde1cc", "key": {"prompt": "v2", "query": "구글 딥마인드 최근 연구 성과 소식", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "080a6be7ac71551cdf5f3a72056535b5becc58ec53c67edab2011006d25fed32", "key": {"prompt": "v2", "query": "업로드한 문서에서 AI 의료기기 정의 부분 요약해줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "dc72e1e156b46c6301a76c68fec42288d6d4e1f71aac9d7b0b6059d343355a87", "key": {"prompt": "v2", "query": "업로드한 문서에서 AI 의료기기 정의 부분 요약해줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "d7d9f0eb5a4ed94f520c1a6c5814bfdc38b504d85d11336d456d4a07f300667b", "key": {"prompt": "v2", "query": "업로드한 문서에서 AI 의료기기 정의 부분 요약해줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "e6cb6c61a390c75cdbb82cd24493f8f085df72610884f141eab62bd633283145", "key": {"prompt": "v2", "query": "내부 자료 기준으로 디지털의료기기 변경허가 기준이 뭐야?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "a6979e8d035ecba20aca0bc141417b35748671e63f4bc445763a6d4054bb49fb", "key": {"prompt": "v2", "query": "내부 자료 기준으로 디지털의료기기 변경허가 기준이 뭐야?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "3f2c3b75ea365e29a8ba3eca890847603924fd0ddca67107a011a8adde0dadb7", "key": {"prompt": "v2", "query": "내부 자료 기준으로 디지털의료기기 변경허가 기준이 뭐야?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "a457e36c97ad2fb4040ef820a7237aeb35705efe65a14c486abdae4e2f55e0b0", "key": {"prompt": "v2", "query": "논문 자료에서 인공지능 의료기기 책임 문제를 어떻게 다루는지 근거와 함께 알려줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "e8d70d750f1aec149ad8deca29322caa7edc351279d0a86cac04bf409fcc6de8", "key": {"prompt": "v2", "query": "논문 자료에서 인공지능 의료기기 책임 문제를 어떻게 다루는지 근거와 함께 알려줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "f8968582bb642b816a55a38aed1a8afcc8e85c216b03e8a90b496a21b4865ed7", "key": {"prompt": "v2", "query": "논문 자료에서 인공지능 의료기기 책임 문제를 어떻게 다루는지 근거와 함께 알려줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "1ea3a8fb618dafceaa002bff193663c5b417a79efaa1e964162450743dfd8d8b", "key": {"prompt": "v2", "query": "첨부 문서 내용 중 FDA 규제 연혁 정리", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "46061251f2827cae8289c8c5319138255added79fad9a01891613bbaf3b5483c", "key": {"prompt": "v2", "query": "첨부 문서 내용 중 FDA 규제 연혁 정리", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "49ad7e2d9e9219cbf922affbda804cb69ee1ced15675f440362249ff60e8479f", "key": {"prompt": "v2", "query": "첨부 문서 내용 중 FDA 규제 연혁 정리", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "f7d6dcc62c9ddbaa8a00f8fda73d36117401eda168c42f2b515fb0866d3f3c6b", "key": {"prompt": "v2", "query": "자료에 나온 신의료기술평가 절차 설명해줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "9f3933576945a3904128dd765776b9b6cbe31333cdf3f9970179214a512e66e7", "key": {"prompt": "v2", "query": "자료에 나온 신의료기술평가 절차 설명해줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "8bec90845d8916960cebc32fb33eff43966d071d2720c480b7d7f29394506926", "key": {"prompt": "v2", "query": "자료에 나온 신의료기술평가 절차 설명해줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "ade77359723eca92698358f042ff99481b6730708917e90699c286112083db05", "key": {"prompt": "v2", "query": "인공지능 의료기기 오작동 시 누가 책임져?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "e2fd161631d69cb0c5583f451643ac4e76a9693dac4e5f86d9d9bb6f7dfb849e", "key": {"prompt": "v2", "query": "인공지능 의료기기 오작동 시 누가 책임져?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "19141ca47e54c3c1fc5f8c7f74645d7e162ee493e6f020b232bb1d2bd44146bf", "key": {"prompt": "v2", "query": "인공지능 의료기기 오작동 시 누가 책임져?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "b0b784b56afd6e73996c7f750281798c8341cff91df8484e7d8bb819fed49e41", "key": {"prompt": "v2", "query": "식약처 AI 디지털의료기기 허가 가이드라인 핵심이 뭐야", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "8312f9a35e736c63ccef543bb6be2c3032fa40f08d1d15ea392211ee2cc2ae0b", "key": {"prompt": "v2", "query": "식약처 AI 디지털의료기기 허가 가이드라인 핵심이 뭐야", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "9d7f135282d59d48af507a22b6d631c5cb7c51086b75c210355ffe9668851b88", "key": {"prompt": "v2", "query": "식약처 AI 디지털의료기기 허가 가이드라인 핵심이 뭐야", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "77d2bf9dafcef571f2b510edac4b55fe0c1e37033e6c85bbdb931174820b8496", "key": {"prompt": "v2", "query": "디지털의료제품법에서 디지털의료기기를 어떻게 정의해?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "83b742f046de2b3788e6d8c3ae3d2226029c2d9a0f649a64cf30f277306c7a98", "key": {"prompt": "v2", "query": "디지털의료제품법에서 디지털의료기기를 어떻게 정의해?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "4c56dd7707082926b62052e2e32fcae4c70bd04cce83fd8027f672bff2262f5e", "key": {"prompt": "v2", "query": "디지털의료제품법에서 디지털의료기기를 어떻게 정의해?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "dc4ca1af9ab10953a2b6a8a6e36df2a4ead6ea6bedb87a9048d46712bb3efae8", "key": {"prompt": "v2", "query": "의사가 AI 판단을 override해야 하는 이유", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "835f54cbda0629b8d4a0a77c7879f7d2db1fb512cc7c40226f638ef5570cc242", "key": {"prompt": "v2", "query": "의사가 AI 판단을 override해야 하는 이유", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "0851d91d1222a7539dad4f22993546f327deac76a5b32f69ee0ae5dc484f5c4c", "key": {"prompt": "v2", "query": "의사가 AI 판단을 override해야 하는 이유", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "48658f4d7fbf766d9ed23bf1dafe8e4c69279fe2d4f157464b0b4c777f7c8b27", "key": {"prompt": "v2", "query": "AI 의료기기 무과실 보상제도 도입 논의 정리", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "06ef0150eccee9663b53b25dad2c7e5060e88f149c8e5b08eb7fbb1a64a97519", "key": {"prompt": "v2", "query": "AI 의료기기 무과실 보상제도 도입 논의 정리", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "31a8d51169173959606c6315c29f3d9850d198895c68ee1f338463152c2a6d89", "key": {"prompt": "v2", "query": "AI 의료기기 무과실 보상제도 도입 논의 정리", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "285d4ee21fef8b14e1ac63ab3374a88eb2cf275de8572b726ff68d14df2da59e", "key": {"prompt": "v2", "query": "문서 근거로 설명의무 위반과 AI 의료기기 관계 알려줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "fc322de866d93ce56bb3467adbbce905dae11bf985676c33364afb02ac6b4047", "key": {"prompt": "v2", "query": "문서 근거로 설명의무 위반과 AI 의료기기 관계 알려줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "d65bf5ca2cc4ce0f8de4201950f027514ba91fd5862912720cbe1ff54d55b663", "key": {"prompt": "v2", "query": "문서 근거로 설명의무 위반과 AI 의료기기 관계 알려줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "71a83981b3ad7202b60c230001ca4d0524ead0040f825a4314244f7eb37ae367", "key": {"prompt": "v2", "query": "회의록 자료에서 결정사항만 뽑아줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "9c1ccda8baabbf475695f1d192bbc8fe20c6356b0730493fbcd8667be987cbb2", "key": {"prompt": "v2", "query": "회의록 자료에서 결정사항만 뽑아줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "86ec584c08918eb15566428891747e414b039b176c5306ee2b2cc2b0664dce93", "key": {"prompt": "v2", "query": "회의록 자료에서 결정사항만 뽑아줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "a27ebbca8b1f3b425aef1979992a9f1efeefeb8edb038fba8d9d82333a3545d1", "key": {"prompt": "v2", "query": "보고서 파일의 결론 부분 요약", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "11500a670d26d6260533bb615b148c303bd198176fa32297ec38f888f4310069", "key": {"prompt": "v2", "query": "보고서 파일의 결론 부분 요약", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "c9bbe8a2f7a828942b666a994854ab0564a1a344941752b598cece58eb732fc0", "key": {"prompt": "v2", "query": "보고서 파일의 결론 부분 요약", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "170b014acb8afdb9459e371d0d167fa7e1ae4cb76cd89e3168a7ab3a27f16882", "key": {"prompt": "v2", "query": "미국이랑 한국 AI 의료기기 허가 건수 비교한 내용 있어?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "1eb3969f0cc061349f9111f025ca5a65e42dece12913f7548c2752100b416e4a", "key": {"prompt": "v2", "query": "미국이랑 한국 AI 의료기기 허가 건수 비교한 내용 있어?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "0a0580967ec864c26723a8b4a90ca464c3984dfb6d079bdbf272081e0e78ccdc", "key": {"prompt": "v2", "query": "미국이랑 한국 AI 의료기기 허가 건수 비교한 내용 있어?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "1341e6479cf13c2b47bcaa5b1ccbb416e3ae8e4c9eb25722b6718196167325e6", "key": {"prompt": "v2", "query": "블랙박스 의료 AI 규제 쟁점", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "23c3d38f661c1b281fe980552eefac1d028ad242d912fb529e30cb8eaaf08eec", "key": {"prompt": "v2", "query": "블랙박스 의료 AI 규제 쟁점", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "3a5258dfbb9dc5844dd4fb0641cf5bc69485aa280be46bdae6e21f73e8adac6c", "key": {"prompt": "v2", "query": "블랙박스 의료 AI 규제 쟁점", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "60eea510ae635390e23515e6c624ebb258c50581f661800d7ad1f1caf7c88752", "key": {"prompt": "v2", "query": "공동 사업 책임(common enterprise liability)이 뭐야", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "6b83b8ad28c813f414bb5eca471e77289e5fc9d3316f85e676f3f250f3f43215", "key": {"prompt": "v2", "query": "공동 사업 책임(common enterprise liability)이 뭐야", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "c8c0fffefb4c22980d09f1f227c49d9c65b4e8ed44d24a5e2fceffb6ed30c3bc", "key": {"prompt": "v2", "query": "공동 사업 책임(common enterprise liability)이 뭐야", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "0a6b9d4c0c291468a88f22355960abac836a770557fa72b3aefbec79af4d1474", "key": {"prompt": "v2", "query": "MLMD가 기존 의료용 소프트웨어와 다른 점", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "3f2fdeea6f1e4619bc944cdd5293495e5d4a180668257f67c003b81aab4072db", "key": {"prompt": "v2", "query": "MLMD가 기존 의료용 소프트웨어와 다른 점", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "0c70ed190896877d395d68f430ba97e245efcbf76bf9c77b5d630efd9e7df516", "key": {"prompt": "v2", "query": "MLMD가 기존 의료용 소프트웨어와 다른 점", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "2fea0c92dc9d0bee0d8ce1fd0b0920e1538140992671840d27c49aa27fa37d21", "key": {"prompt": "v2", "query": "참고 문서 기준으로 AI 의료기기 규제 3단계 진화 설명", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "2df80cf9efc2670346b3db3c09a0da4371b38199de617fb2d77de33b3821dbf7", "key": {"prompt": "v2", "query": "참고 문서 기준으로 AI 의료기기 규제 3단계 진화 설명", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "32785d4e564bb3a20920f9ac346bdbe254d61196b7b178ab9e1a062a50e6a04e", "key": {"prompt": "v2", "query": "참고 문서 기준으로 AI 의료기기 규제 3단계 진화 설명", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "0dd87525578e33ff85059cc8f5826f545907fd7922e8a231f235e872e188fcb8", "key": {"prompt": "v2", "query": "AI 바우처 지원사업 공고 찾아줘", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "439cf9381c76dfeae20fb0e4928d50394d540f5fc85f6b0f25972957d125da59", "key": {"prompt": "v2", "query": "AI 바우처 지원사업 공고 찾아줘", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "f42a8cb38045b8faef7c6955e2799e4c1c7f5ddb0c8949098f5ac7074a8c4f5a", "key": {"prompt": "v2", "query": "AI 바우처 지원사업 공고 찾아줘", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "a5267d47f1382763e21742f0ebb6605c0ba54ec01cd7ea4856443e1198dd53db", "key": {"prompt": "v2", "query": "NIPA 2026년 모집 공고 있어?", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "5b8b7ed717ec0b3b017287645644d5a8a7e16fdf0681e9bdd8652e94cfecdc4c", "key": {"prompt": "v2", "query": "NIPA 2026년 모집 공고 있어?", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "64991785f7b71d0652e0033607321b1645466431adf45e1c140c347548799656", "key": {"prompt": "v2", "query": "NIPA 2026년 모집 공고 있어?", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "a938486afcf6fefa52e364b42e6c304708df1739d232878c7e976ac54102a426", "key": {"prompt": "v2", "query": "중소기업 R&D 지원금 신청할 수 있는 사업", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "dbd5a54f97bafb3930eca168fbf019e0017b5390000c5b936baf59ecf820980e", "key": {"prompt": "v2", "query": "중소기업 R&D 지원금 신청할 수 있는 사업", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "f9fbf0a9992ecb5e50b09fe93c6bad5924ae3fce21a015e6ce991fcf301f6549", "key": {"prompt": "v2", "query": "중소기업 R&D 지원금 신청할 수 있는 사업", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "1f3792ae9f3f8d25de1753b8b1760d5b723686897fcda30b8cb557e66661d961", "key": {"prompt": "v2", "query": "기업마당에 올라온 헬스케어 지원사업", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "3155194d56ece9550e0be64b3fa8c616ebd02caf30c9b1c47e110f25aeeaeb08", "key": {"prompt": "v2", "query": "기업마당에 올라온 헬스케어 지원사업", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "ce64c7f0486032c6a6e86e0203d0e0fbf339e8cd1c6e7e38025c7aff4d92b46d", "key": {"prompt": "v2", "query": "기업마당에 올라온 헬스케어 지원사업", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "c897e2f7e2c015d25d6c6b8ca67dd9681764cdf36a78c08f8e87235aa12fac09", "key": {"prompt": "v2", "query": "나라장터 AI 관련 입찰 공고", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "4e66d4b46b06dd85e8acf9fb40c2e99abb23f372ce539726f7197c381466d6e5", "key": {"prompt": "v2", "query": "나라장터 AI 관련 입찰 공고", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "242234d745af689792cbdc03c33669274247a7bc16aad6d24f8f91a4d8be8bfe", "key": {"prompt": "v2", "query": "나라장터 AI 관련 입찰 공고", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "9b51002f43cf4b71524dac3b9087cca06872b4b282c482a7ce56dd87376f2a22", "key": {"prompt": "v2", "query": "디지털헬스케어 실증 과제 RFP 나온 거 있어?", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "ad0aecad1f8ea86fa3f788a7042c7b772c999ae9d4bfb665ba9e2e2f506d7c4a", "key": {"prompt": "v2", "query": "디지털헬스케어 실증 과제 RFP 나온 거 있어?", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "429d4d7274e5dc87cd7d7b3b1d667086f04475d760a2ba56f26f6af65b28d237", "key": {"prompt": "v2", "query": "디지털헬스케어 실증 과제 RFP 나온 거 있어?", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "dba3f5e1982633e962e916b271d796466b56e93dbb0d7efbaf63e5e4b5c3df41", "key": {"prompt": "v2", "query": "스타트업이 받을 수 있는 정부 돈 뭐 있어", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "4c99c15207d3954dec46f7898820b79d0be105d6dffbf3a306f8e58f8d6c7a24", "key": {"prompt": "v2", "query": "스타트업이 받을 수 있는 정부 돈 뭐 있어", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "0f432728e09ac1849a2e9e2893a33492263cce74ff1d5a40e1259d2bcb99dd59", "key": {"prompt": "v2", "query": "스타트업이 받을 수 있는 정부 돈 뭐 있어", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "bd2ff607192307384c0de2e564ac027e2231d08ceed82cb7ab6bb761eaf2dad6", "key": {"prompt": "v2", "query": "의료 AI 회사가 지원할 만한 국가 사업 알려줘", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "bdc5c77949ba49f3ed76d93cf178843c265e2c4e35d83fcf0ca2965edabab48d", "key": {"prompt": "v2", "query": "의료 AI 회사가 지원할 만한 국가 사업 알려줘", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "4cb2c708714f59fea2652339705b369a6344976db1924c24a9351346d879ac03", "key": {"prompt": "v2", "query": "의료 AI 회사가 지원할 만한 국가 사업 알려줘", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "879fbf328772b71fed478c398f038f2f2c21c95fc82aef7819cdf6387bdb663a", "key": {"prompt": "v2", "query": "이번 달 마감인 창업 지원 프로그램", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "ae5115545435d6c3a62787948011b772ba48a9ed539b72d8ec8c269bcd23753a", "key": {"prompt": "v2", "query": "이번 달 마감인 창업 지원 프로그램", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "f5a226774eb11c34a27e70d75b6879cc715a505c6676eb4bd27a59bc94b5f07f", "key": {"prompt": "v2", "query": "이번 달 마감인 창업 지원 프로그램", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "80f11acd782e34c9e342cab773a8cb3e89b157e6d3ed10648ede4641c9a3bf49", "key": {"prompt": "v2", "query": "K-Startup 예비창업패키지 모집 일정", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "af6a6affc4a6fe866f8e5dafb57532493125a086f6956e2d9706e735a4603b1f", "key": {"prompt": "v2", "query": "K-Startup 예비창업패키지 모집 일정", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "7680d4fe4e7790a4ae1376c29d2341fe6714679dbb1cd2bd15fd46c2441fbce7", "key": {"prompt": "v2", "query": "K-Startup 예비창업패키지 모집 일정", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "c20c8a6578dc51a4748ff48253dd2b2286cb09265fdaf9ed3d7bbf941f6d6ae4", "key": {"prompt": "v2", "query": "클라우드 이용 바우처 신청 기간", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "6f3e3786d56de4ebf6fc11fcca329d363f00976ee75b1372f75c45251f8afa55", "key": {"prompt": "v2", "query": "클라우드 이용 바우처 신청 기간", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "77d050798c51d3b315570c8d2726835fff66f97e76165f37e5478d17e7604d62", "key": {"prompt": "v2", "query": "클라우드 이용 바우처 신청 기간", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "3e35e5674a4b3dbe0459703a777e66057345ef4e5e2febb90790d3874b95c021", "key": {"prompt": "v2", "query": "데이터 가공 지원사업 공모", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "b86747c63eeba11063ba87a75becd6ef84c46b1187149841f00a720ee135b63d", "key": {"prompt": "v2", "query": "데이터 가공 지원사업 공모", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "293a47d6c72e64a9b594eafe8f3fcae650f0d907bae3f8bb82f98ac8cf6027de", "key": {"prompt": "v2", "query": "데이터 가공 지원사업 공모", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "0f3fd419404d7cf2faeb59708081353982c9865c8dfe728250f110a0fa07eecd", "key": {"prompt": "v2", "query": "AI 의료기기 인허가 컨설팅 지원해주는 사업 있나?", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "804c97cb0ea7df15f3475300b8e2dfebbd5c3005fc5caa5c16376a52bcbfdcec", "key": {"prompt": "v2", "query": "AI 의료기기 인허가 컨설팅 지원해주는 사업 있나?", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "815e9b6ab5d90888c5f63e309c21daafc8ff823e2c644c267c13c3920492689d", "key": {"prompt": "v2", "query": "AI 의료기기 인허가 컨설팅 지원해주는 사업 있나?", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "2e9729326693a52204c4a2e48804ba7329fb824fc19fe8d8551c5d913837c1b0", "key": {"prompt": "v2", "query": "조달청에 올라온 SW 개발 용역 건", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "a2f5c9531a776452b1bd04db5dfba6c5ea4b0112f0fa9b18365171f3d69eaf29", "key": {"prompt": "v2", "query": "조달청에 올라온 SW 개발 용역 건", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "b0ecc765177a55931d69ddfb6a850a2c885c9c8678e8abf035f754eeacaf4025", "key": {"prompt": "v2", "query": "조달청에 올라온 SW 개발 용역 건", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "abca5b52940f931aabdcd8d259a08ad05a9a018e7b464fb53c9de7c354164c69", "key": {"prompt": "v2", "query": "수출 바우처 모집하는 곳", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "75c845236e125dac4b990152c59baa8ab99d59ecdd46abf8a2ad638fbb02cc01", "key": {"prompt": "v2", "query": "수출 바우처 모집하는 곳", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "bf71e8caa75dd9b50bb02580b1ed37febf1597ccc4de3d63454d39c9dd0874a4", "key": {"prompt": "v2", "query": "수출 바우처 모집하는 곳", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "3c3c2203663ad375597f944cc7cf11bda460e16f85ddaba1413272c0dcb354db", "key": {"prompt": "v2", "query": "과기정통부 AI 융합 프로젝트 과제 공고", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "e19c282fee81b3b5424f01d4ad8c137b67cad712df2347b3fedeebfcabdc0dc8", "key": {"prompt": "v2", "query": "과기정통부 AI 융합 프로젝트 과제 공고", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "cd031d194f3a49951f668727aaa9bdade894cc9ab7a0764545739663d81c2fca", "key": {"prompt": "v2", "query": "과기정통부 AI 융합 프로젝트 과제 공고", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "340f190ba510d8df011bbb23184509e3cd073d88c0b1bc92d5205e838d8a903d", "key": {"prompt": "v2", "query": "청년 창업자 대상 정부 보조금", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "7df86019dc36491a38f426f12a777797cc4587ee7525fd7ec7026254279e7231", "key": {"prompt": "v2", "query": "청년 창업자 대상 정부 보조금", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "423fd88603a0433f228cc3e55163d76f2158c124d0647bd8af975e3f41916505", "key": {"prompt": "v2", "query": "청년 창업자 대상 정부 보조금", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "b97e2c894482faf7ab8aca0daa3a02b457f7c46db990de95c2b135cd6035aeb4", "key": {"prompt": "v2", "query": "정보통신산업진흥원에서 하는 사업 중에 지금 신청 가능한 거", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "383dba595ad36d010b93837fcf2adb9d33a59e5f4a1b6852cc3f58bd317e4bd2", "key": {"prompt": "v2", "query": "정보통신산업진흥원에서 하는 사업 중에 지금 신청 가능한 거", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "aee6abae683466d97da55e2ae676fabfd9d45c4d2e96b952cb3122140e1c825a", "key": {"prompt": "v2", "query": "정보통신산업진흥원에서 하는 사업 중에 지금 신청 가능한 거", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "a3e2658ecb913d4c46182ecf3b56cee3abda00a8cfc4069c16387541785df258", "key": {"prompt": "v2", "query": "AI 의료기기 규제가 요즘 어떻게 바뀌고 있어?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "a5fb72d22f26acc4293875a604301ed40a98cba9588d246da114f9e6c4d8576c", "key": {"prompt": "v2", "query": "AI 의료기기 규제가 요즘 어떻게 바뀌고 있어?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "332b6f083c1f33b9d7f34ed0e4b0f0c6a76777e51a16750bee283b46468fc5cc", "key": {"prompt": "v2", "query": "AI 의료기기 규제가 요즘 어떻게 바뀌고 있어?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "f18708a64a288a005d3ed30f107f284aa6d4a569f7e484f762e9f146291dec7e", "key": {"prompt": "v2", "query": "식약처 가이드라인 관련 최신 기사", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "9b6b44f67f3bd9826cab4e60c152a52e938a448f427235db811d825071977b8d", "key": {"prompt": "v2", "query": "식약처 가이드라인 관련 최신 기사", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "c2c88e4e5999781e541e601e75725d8e4fc4907ccae17e47dbfc871ac7f9b530", "key": {"prompt": "v2", "query": "식약처 가이드라인 관련 최신 기사", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "352b53e5c16a9820f12aac0935bc198d9ec42676aaa9ec15e650cfeebd1e6027", "key": {"prompt": "v2", "query": "의료 AI 지원사업이랑 규제 이슈 같이 알려줘", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "ad919f292f785860abd90b9803ce6e56384b71cfa58f9f05515f3f8544c71d50", "key": {"prompt": "v2", "query": "의료 AI 지원사업이랑 규제 이슈 같이 알려줘", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "e72915fd31a9976a2e9aff45330cc7df845bf1f788a9de13a8363966635e2320", "key": {"prompt": "v2", "query": "의료 AI 지원사업이랑 규제 이슈 같이 알려줘", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "8e5711df2e83cc0838d625d448ce555bce3e0f773ddd2936a433b791b17a905d", "key": {"prompt": "v2", "query": "헬스케어 AI", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "ba4cc427e1df892aa0342cf7496cf838c82be678b0dcfcc668f28c49286afff8", "key": {"prompt": "v2", "query": "헬스케어 AI", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "b806334de96e95abb22aaeaed11531e2b694ca3279f609c47f4d522073eddd08", "key": {"prompt": "v2", "query": "헬스케어 AI", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "6a4da0002377fec5d8c5dbd7f17a96acca0187b5651e0092aae80febe34124d2", "key": {"prompt": "v2", "query": "루닛 주가랑 AI 의료기기 책임 논의", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "a8bbcd1849ce5de3ec7a4f87a4c30b28e9c9114ece048ee1c3cee5357b2e08fd", "key": {"prompt": "v2", "query": "루닛 주가랑 AI 의료기기 책임 논의", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "02db6af18123583d16fd6e566ba898d0f3732adbd53b658c12655ccae03cc468", "key": {"prompt": "v2", "query": "루닛 주가랑 AI 의료기기 책임 논의", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "e2b63e58a9de756f216f4ddb3494c98d5a5c49194eda68017e74659f5a889961", "key": {"prompt": "v2", "query": "AI 진단 보조 소프트웨어 관련해서 알려줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "71dd4055b19b47716454ff0249a8807e1077d7e70c6bedb8bf6571525dc7a3c1", "key": {"prompt": "v2", "query": "AI 진단 보조 소프트웨어 관련해서 알려줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "95e501438bc1e6f6718fd82e843346c062eedbefcde422c741e010f3dd3fbed1", "key": {"prompt": "v2", "query": "AI 진단 보조 소프트웨어 관련해서 알려줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "4a278b5d5d9a192980b86f6ce2d7b2fd4ac144a715a32880791e4ebf5b7b16a2", "key": {"prompt": "v1", "query": "카카오 주가 요즘 왜 이래", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "33b8a8ce4e1417c51d14818eb36744de0e398dede8a9a9b67df48c445939984e", "key": {"prompt": "v1", "query": "카카오 주가 요즘 왜 이래", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "47e973adfe30c13cf1d7c6f1fa9377c9e2ee9ac7682048d8d646f84f71177b23", "key": {"prompt": "v1", "query": "카카오 주가 요즘 왜 이래", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "9b42058b0b028263a7f72db20c265fd8f419e7bd9825d924a031f2216e0b13dd", "key": {"prompt": "v1", "query": "SK하이닉스 HBM 관련 최근 기사", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "45a91b6fa208be56ca5bb6fc5280d5f96aece08a81885fa5610570b3cd97826c", "key": {"prompt": "v1", "query": "SK하이닉스 HBM 관련 최근 기사", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "930663bdf061985569e4efc46a662c71c7c0212ea9f5576f64263692d2c93718", "key": {"prompt": "v1", "query": "SK하이닉스 HBM 관련 최근 기사", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "b4043327a76927aaa917dec8727d58d788debb704cb46f446249303c9107928e", "key": {"prompt": "v1", "query": "의료 AI 기업 중 올해 상장한 곳", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "c6cf6965801b51c8496f73fc6353f9d2223e4cd5b97b1c621bd431d678ba988d", "key": {"prompt": "v1", "query": "의료 AI 기업 중 올해 상장한 곳", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "c81392cc668d5fe976b712011cecc5eec118753652d1811f47b382427b1f063f", "key": {"prompt": "v1", "query": "의료 AI 기업 중 올해 상장한 곳", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "abda82dc4ed154a045e7a0ec3e117ea753f52437164b6c7f4201fa2b7cf9d421", "key": {"prompt": "v1", "query": "어제 나스닥 마감 상황", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "1241e174610d153b3c371522c2b3e8731b3ab59da8de5c423a6c2095cb7a3911", "key": {"prompt": "v1", "query": "어제 나스닥 마감 상황", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "9815a01165e8a409e49d44b1195892e16f506af9c6f3ec4ff707724326ad6d36", "key": {"prompt": "v1", "query": "어제 나스닥 마감 상황", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "efdbda26d8b148dc130aafe55a3428d62387454371e1b205ad31f1f8c22dd542", "key": {"prompt": "v1", "query": "앤트로픽이 최근 공개한 모델 소식", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "1715608fb64d8dc01b97282d817635e04e68320c74283aacb3ebf85b812c80e6", "key": {"prompt": "v1", "query": "앤트로픽이 최근 공개한 모델 소식", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "c22fff421a81a9ace9a1f8bdbf8e29fc1be1f31553f692463132ac8c51a5cbd3", "key": {"prompt": "v1", "query": "앤트로픽이 최근 공개한 모델 소식", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "00fc92cd69c734a1ce90fd0099f7161f48d0636f62f8f1ba6289290b14d960c4", "key": {"prompt": "v1", "query": "셀바스AI는 무슨 사업을 해?", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "5478758ec891cb0ffccc45f3738682968e09e8b56bc49eaa858891e73ad385e6", "key": {"prompt": "v1", "query": "셀바스AI는 무슨 사업을 해?", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "8cd6e43ee358f3330eb099f84af92bfcf4e3425c82dc48ee6ba7ca7ab8947b18", "key": {"prompt": "v1", "query": "셀바스AI는 무슨 사업을 해?", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "919c46f7a264dbadb059067a813ae77f81548ad7bb6076e6a2c3c4799388730e", "key": {"prompt": "v1", "query": "식약처가 이번 주 발표한 보도자료", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "a4912c379290788378a1313394473ce0476a4782805537178a8293a90b8ddb1e", "key": {"prompt": "v1", "query": "식약처가 이번 주 발표한 보도자료", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "ea03ddfe452e7b8bffdc5800a3b74a799a7e3afa9628bf38219414359e00a22a", "key": {"prompt": "v1", "query": "식약처가 이번 주 발표한 보도자료", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "1c648bfe9e125bc12175ddaea2defe1bf88b0a530e8384157f565b3ad16af4bd", "key": {"prompt": "v1", "query": "GOOGL 52주 최고가", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "5bea3e1990ef6bd578bf46b412c5230cf5008ae9202a15b54664dd79b7e4ed0d", "key": {"prompt": "v1", "query": "GOOGL 52주 최고가", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "0710bf1a3856f4809d14d1da085a7a0607cd52a36750748d7a5857490dcb2d91", "key": {"prompt": "v1", "query": "GOOGL 52주 최고가", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "b0259f3545ceebca25640bd7f667405c69488ec5ebff541a7587e0430b4cb212", "key": {"prompt": "v1", "query": "PCCP가 뭐고 왜 필요해?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "10300261d22743588fbc9d4ad81a53dc6c357ff8812aa33e323e2e4bead8ad98", "key": {"prompt": "v1", "query": "PCCP가 뭐고 왜 필요해?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "99a6872260ceb8f5ac98e36346b4238d7da00462d7b87735c1315a7f0443fcdb", "key": {"prompt": "v1", "query": "PCCP가 뭐고 왜 필요해?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "a42f7686efd5828c525fc3bb76056ba14ac3b3ed1a3b4386b3f2306142382fee", "key": {"prompt": "v1", "query": "AI 의료기기 등급 분류 기준", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "e079d6434f19a0d808b0e078ad828e5828484a9261c96572bd8d0594dfe40d16", "key": {"prompt": "v1", "query": "AI 의료기기 등급 분류 기준", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "c568ac09f3d17a87303a44a9f770dded3f2a38ce68f6ff9318e15e94ed92f4af", "key": {"prompt": "v1", "query": "AI 의료기기 등급 분류 기준", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "14e7688854b51f4065c3b04eb6f1c163fd6079b6bb610fd4d116184e291240ee", "key": {"prompt": "v1", "query": "의료기기 2등급은 어디서 인증받아?", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "a724096eab55aea530a3148c451e32d01977715ed4d50b7686bbf8a15af157d2", "key": {"prompt": "v1", "query": "의료기기 2등급은 어디서 인증받아?", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "48f382013def9be9008eb2d8ce225d5e2e93cd5a42cfdc42f7d2689bd7745bfa", "key": {"prompt": "v1", "query": "의료기기 2등급은 어디서 인증받아?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "368b7003702d5892c8b18e48ccfaeb430376c3c0ffc8b84debe489ce4a8c55e5", "key": {"prompt": "v1", "query": "AI가 오진하면 의사 책임이야 제조사 책임이야?", "rep": 0}, "v": "NONE"}
+{"k": "dc9efd1450a149f2c6519ae9cfed1cff0839590ad5824d03250657ecf6b22cd1", "key": {"prompt": "v1", "query": "AI가 오진하면 의사 책임이야 제조사 책임이야?", "rep": 1}, "v": "NONE"}
+{"k": "15afaea768ed9482e0ce585a5fbb138c61237b6522807673f6a6026e47f6facc", "key": {"prompt": "v1", "query": "AI가 오진하면 의사 책임이야 제조사 책임이야?", "rep": 2}, "v": "NONE"}
+{"k": "1a3c93cfa8729bfab9428cb4cf36a181a0674f87e6226011a5428149d2ea2761", "key": {"prompt": "v1", "query": "생성형 AI 의료기기 허가 가이드라인 주요 내용", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "12c0894f57e97e32565cc0239cdd8b1ee948bd3f9981471ccc819eaefc0eb0b1", "key": {"prompt": "v1", "query": "생성형 AI 의료기기 허가 가이드라인 주요 내용", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "4fe9d6c3d3ba7deaaa2cf807a7686f1ba3a4a668e5641ce71295d114d23df769", "key": {"prompt": "v1", "query": "생성형 AI 의료기기 허가 가이드라인 주요 내용", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "14918af495f991fdf6cc5afd3aa6faa19843c8d75bfd1a2d4a4102a0dcd4a28c", "key": {"prompt": "v1", "query": "자료에서 요양급여 등재 절차 찾아줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "0a66aa9f74f9a72132d597e780851d2005fdb55ca87ea8aec8a446251aa903dc", "key": {"prompt": "v1", "query": "자료에서 요양급여 등재 절차 찾아줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "bc89e0e69bc5a4a81b69357a8faeb43a356573b162ab92b7b56356c522043fd7", "key": {"prompt": "v1", "query": "자료에서 요양급여 등재 절차 찾아줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "457f0e461450bd7ea1b6005cf33e82c618dd6f765a02c62bd7372e73370bfaf5", "key": {"prompt": "v1", "query": "의료 AI 성능이 의사보다 좋으면 주의의무 기준이 바뀌나", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "5856d6b61e1e3362f5294abcc1b07b7fe240cb2f43553d8a211d16d7982c3645", "key": {"prompt": "v1", "query": "의료 AI 성능이 의사보다 좋으면 주의의무 기준이 바뀌나", "rep": 1}, "v": "NONE"}
+{"k": "f56ff60ee98885d12223f2eccd4c916816e90ea6b18373238fdf45c949d5805e", "key": {"prompt": "v1", "query": "의료 AI 성능이 의사보다 좋으면 주의의무 기준이 바뀌나", "rep": 2}, "v": "NONE"}
+{"k": "bb9e6be0a5235fbe30826862ab742725cd3f9c2b939c66bb8b749cd29e9b2b3c", "key": {"prompt": "v1", "query": "소프트웨어 업데이트하면 다시 허가받아야 해?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "271329729c7607725587a61f609789c06a23564d217630dfedb884443bf76308", "key": {"prompt": "v1", "query": "소프트웨어 업데이트하면 다시 허가받아야 해?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "e4b464c89e17d893043ce92b5c2c5c753ebf16750b840e7d9da680dfca133d93", "key": {"prompt": "v1", "query": "소프트웨어 업데이트하면 다시 허가받아야 해?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "37a1aebde3afdc2c43716ecdeeed4748d736c98979c979c6e8712d0b5c33322d", "key": {"prompt": "v1", "query": "AI 반도체 실증 지원 과제 모집", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "d77d75ce5c4e0035a0bfd33e6e7c2e4da6c8f2d7f6881544b1ce49ebb3f26f34", "key": {"prompt": "v1", "query": "AI 반도체 실증 지원 과제 모집", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "7f0512b35bfaadbbb570f98550ed29fd4d0ec1000a68a13c8daf3abf4ae02dee", "key": {"prompt": "v1", "query": "AI 반도체 실증 지원 과제 모집", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "0167495f145c21bfafa2dc2309e73daddabe7d58de8134dbff18dafc43c6d141", "key": {"prompt": "v1", "query": "의료기기 임상 지원금 받을 수 있는 데 있어?", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "fd07daa751c479637d5d90c52c906030da0a649f324063866bfa79f4a367b827", "key": {"prompt": "v1", "query": "의료기기 임상 지원금 받을 수 있는 데 있어?", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "6e466efdc37d3ef76807dbf45b7650a9c256c5434fe126a8180b8e2f725be113", "key": {"prompt": "v1", "query": "의료기기 임상 지원금 받을 수 있는 데 있어?", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "5883db33e79c5a12be3915826140dd624b8786f1989b519eca481f3246321206", "key": {"prompt": "v1", "query": "중기부 스마트공장 보급사업 신청", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "9ebca8ccf146e654de190335b08f212a846d155ad44d2ea050d36073db8a51dd", "key": {"prompt": "v1", "query": "중기부 스마트공장 보급사업 신청", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "8ade566a4e5b01f97c375960c30aed19a806faf20a2ffc82626305af8f360a89", "key": {"prompt": "v1", "query": "중기부 스마트공장 보급사업 신청", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "b8cb14dd54ef44dd09e8cb51b6a264c8044665d6b7608f65b59a01b8d35deeb0", "key": {"prompt": "v1", "query": "공공기관 AI 도입 사업 입찰", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "93675e54c5c7ebe46535b92d3eab60b2dfd2cf19f60cdd51a7dfa5aba7b5a12b", "key": {"prompt": "v1", "query": "공공기관 AI 도입 사업 입찰", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "5fadc03094347265f62718650ac017628f4520082a15fb0151b38460c91f43f6", "key": {"prompt": "v1", "query": "공공기관 AI 도입 사업 입찰", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "b53a05cc626253a8f979588ecccbdbb3332aff7c02da1bd53549b1fd047babff", "key": {"prompt": "v1", "query": "초기 스타트업 사업화 자금 지원 프로그램", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "d732e7f67a5237ee0eafe657e9687c0377e35603ee25684f8df4b9bdc2f4bc94", "key": {"prompt": "v1", "query": "초기 스타트업 사업화 자금 지원 프로그램", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "97438fa1a02205c048027205b0dc46942da154196ecec368b5fee7e9410e63b4", "key": {"prompt": "v1", "query": "초기 스타트업 사업화 자금 지원 프로그램", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "44108aa58710bc7a8b9bfe4de70165627caf9780dfa00e65610b3497dd4d821f", "key": {"prompt": "v1", "query": "헬스케어 데이터 바우처 공급기업 모집", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "67c857658e7a938f554d9a3b16807fca7d589364e60aa65e129713b70782237d", "key": {"prompt": "v1", "query": "헬스케어 데이터 바우처 공급기업 모집", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "ebefb273c6fef9c9234bf433caf41e2d0656b308c6840fc5f62522c0b6deb443", "key": {"prompt": "v1", "query": "헬스케어 데이터 바우처 공급기업 모집", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "3b31d14d1d807e43c3b8b578a6f8bab2f2f97703def507ac8ab9c75dcbc07f18", "key": {"prompt": "v1", "query": "AI 의료기기 인허가 받으려는 기업 대상 정부 지원", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "236fa3b3e65806e7a5a284dcceee0c2a33d6f0995dafec282ab760feb321237e", "key": {"prompt": "v1", "query": "AI 의료기기 인허가 받으려는 기업 대상 정부 지원", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "c14d2211769bc6c60501e7e6fe12ef6856aa6fdab906f70a3d79f3aa22a55d36", "key": {"prompt": "v1", "query": "AI 의료기기 인허가 받으려는 기업 대상 정부 지원", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "876bbe08ed6608587d4f240af64b31000a9c935d58acd805b11b326d22d0d456", "key": {"prompt": "v1", "query": "다음 달 마감되는 R&D 과제 뭐 있어", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "3733706807c4d292e0999e86f36fb041866109926bba83d6e18aca245b91dac6", "key": {"prompt": "v1", "query": "다음 달 마감되는 R&D 과제 뭐 있어", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "76e578e45d289e778af1fe28e2b6aecb596aee0286ef919471585681fddbbd33", "key": {"prompt": "v1", "query": "다음 달 마감되는 R&D 과제 뭐 있어", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "cc3885b450ce14113cb3723ab9afce1231f90b3e211bccd1308e683abb29b483", "key": {"prompt": "v2", "query": "카카오 주가 요즘 왜 이래", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "75238fcac454bbde1aedbf8515c6b37695bf892c98535b2079aa65af379ef7e9", "key": {"prompt": "v2", "query": "카카오 주가 요즘 왜 이래", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "fe948991990b82e0bc04305b6635350db702ef09b0e1ceb1ecdeb6195debcd29", "key": {"prompt": "v2", "query": "카카오 주가 요즘 왜 이래", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "0e4873db16ed0b257f34cec834f587baccdb681b2d48cb8650bb511d24316d84", "key": {"prompt": "v2", "query": "SK하이닉스 HBM 관련 최근 기사", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "dec1b57d63c06c34a442103ace416e82c5c5af8c06985034ee3916d76155daa2", "key": {"prompt": "v2", "query": "SK하이닉스 HBM 관련 최근 기사", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "52b80724983dc9622071a31ba52ac67c81571569b99282d549bf18ef3791fe48", "key": {"prompt": "v2", "query": "SK하이닉스 HBM 관련 최근 기사", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "4fad76663cdd9465e335955070629600fbe7d7fff1a258d7622aba1188820223", "key": {"prompt": "v2", "query": "의료 AI 기업 중 올해 상장한 곳", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "3f7da3149da065eedba2d55b2e52d5782a3c5882df74375a69cc826009b7efdd", "key": {"prompt": "v2", "query": "의료 AI 기업 중 올해 상장한 곳", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "6b69796d854eed01f66b9bbd5604f43a08627fd07fbe687d2bc6f5d44ab3fac0", "key": {"prompt": "v2", "query": "의료 AI 기업 중 올해 상장한 곳", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "03b0d9abb0cea122cb287e509e09cf80d1c57ec7068346eb36c8ab8c0e8f1754", "key": {"prompt": "v2", "query": "어제 나스닥 마감 상황", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "69a2503c69d28b3a30c654d356f8f8c4df44e707aab9e4eae6239a74e5d24bfa", "key": {"prompt": "v2", "query": "어제 나스닥 마감 상황", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "af54c818d6f66e6474801a7f29a94d63fcc5b50cd39d4ee1a3a74884f3732b51", "key": {"prompt": "v2", "query": "어제 나스닥 마감 상황", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "f8f4c11ec1226a3a75ad4ea0b06c67f5a71a65f463815e4824deda0d38025b85", "key": {"prompt": "v2", "query": "앤트로픽이 최근 공개한 모델 소식", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "e19a88348fd082c1d44d8354e5e35d09ff92f414311928a8d0f6617559b606f9", "key": {"prompt": "v2", "query": "앤트로픽이 최근 공개한 모델 소식", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "b131449f03acec1514507e4f24726749871e0418cd7e7e6665cf71c29410aa38", "key": {"prompt": "v2", "query": "앤트로픽이 최근 공개한 모델 소식", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "13c564341294357d43d350bb3135be9cea89d0cd65fe81f2876ab6d5c6df3848", "key": {"prompt": "v2", "query": "셀바스AI는 무슨 사업을 해?", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "5d6453103cd11cd32c505f9f180e713cef301bbeba64b1aeae2deaf356a256a0", "key": {"prompt": "v2", "query": "셀바스AI는 무슨 사업을 해?", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "c588e31f0445b860a6b03df5cb0b5e471e6ece8ac2baf85b27f9c13d05ab569e", "key": {"prompt": "v2", "query": "셀바스AI는 무슨 사업을 해?", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "57af659c433ec199666c527413682eb6746d13ec18d257cd3eb09c83b6337803", "key": {"prompt": "v2", "query": "식약처가 이번 주 발표한 보도자료", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "87352e9952f84041025718ba15a242678898144650b85ba4627d9ce55e77bc3d", "key": {"prompt": "v2", "query": "식약처가 이번 주 발표한 보도자료", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "1bf79638a1c5c06e9a3794047c56636e014fecdababfe4e28681965d8ee090cf", "key": {"prompt": "v2", "query": "식약처가 이번 주 발표한 보도자료", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "263c04dba804a01e997c8c769cd761b8fb5007b918b2fe3f2e7aec9c80d6bd97", "key": {"prompt": "v2", "query": "GOOGL 52주 최고가", "rep": 0}, "v": "Day1WebAgent"}
+{"k": "855c25eea2394328dd976c3d7f5eece68adde4fac3e37cd456b366ed5456597c", "key": {"prompt": "v2", "query": "GOOGL 52주 최고가", "rep": 1}, "v": "Day1WebAgent"}
+{"k": "be160ad15af40012add5e089775d8b314f277fbb74388fb52c702e72b9809fd4", "key": {"prompt": "v2", "query": "GOOGL 52주 최고가", "rep": 2}, "v": "Day1WebAgent"}
+{"k": "9d3d0bf728d0fcab50e2fe37c7da4f46aeade34db4be81fa47a40bdc10a7eb27", "key": {"prompt": "v2", "query": "PCCP가 뭐고 왜 필요해?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "6207c2f3f348de80965210dee0090109cbbc3d62917a1152deba2dab86151cdb", "key": {"prompt": "v2", "query": "PCCP가 뭐고 왜 필요해?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "fe3b4001fcaf1234d3ad63661e7ab4f9f2e7d837597fb4c49dc5079dcd848d09", "key": {"prompt": "v2", "query": "PCCP가 뭐고 왜 필요해?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "fb130622b1b2fa0354e48bcf1e911eafd10ff685e11e764ab22f6866bb3957c2", "key": {"prompt": "v2", "query": "AI 의료기기 등급 분류 기준", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "23da77cb5e822c14b865454cf28e4aceb36c1b4931228ffaa2ff6bf820e84484", "key": {"prompt": "v2", "query": "AI 의료기기 등급 분류 기준", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "514825d50bd1047f1a8062ad6fdb012d7806bd1412fa642a929876276a3556d1", "key": {"prompt": "v2", "query": "AI 의료기기 등급 분류 기준", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "447b5de1dea208832e18ac1bc17ca2dcf08f11ed3737baa55ca3831639ad5f55", "key": {"prompt": "v2", "query": "의료기기 2등급은 어디서 인증받아?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "724e2e61162ee0d2727f5966c82d7399f08502963209d9379fbc95efa99f7db3", "key": {"prompt": "v2", "query": "의료기기 2등급은 어디서 인증받아?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "27eb722b67c0c54e1b82dd8c758713514f20cc4016528f57b60025bab45bba75", "key": {"prompt": "v2", "query": "의료기기 2등급은 어디서 인증받아?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "181e5ab559ceda4548cb47cdda02cbe7b07dbd92274415be47ec8452dfef9925", "key": {"prompt": "v2", "query": "AI가 오진하면 의사 책임이야 제조사 책임이야?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "2a4580d8068950aea463acd32f64accdf7978a49145e32f49d40c5fa72163472", "key": {"prompt": "v2", "query": "AI가 오진하면 의사 책임이야 제조사 책임이야?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "bb9fd9f562f5fcc916b06f07d1123518369245060d545368a8dc067d480b3592", "key": {"prompt": "v2", "query": "AI가 오진하면 의사 책임이야 제조사 책임이야?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "a3d069c91ad86af3bc942df927b5c7ffc7a221d148e2aa504629e33deec5e778", "key": {"prompt": "v2", "query": "생성형 AI 의료기기 허가 가이드라인 주요 내용", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "ef3b7665db1b1eae16f2ea0a8e46627f91c4a082431397db9d2ed5d2b9d4b404", "key": {"prompt": "v2", "query": "생성형 AI 의료기기 허가 가이드라인 주요 내용", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "4861858c64a0a2fbfef9aebfba51403856bfac11a0ca30b992fed78d360e53a1", "key": {"prompt": "v2", "query": "생성형 AI 의료기기 허가 가이드라인 주요 내용", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "150e234b5df4559ad10c0d698c5ef4045134a298cbe0780badd16190a7e1a833", "key": {"prompt": "v2", "query": "자료에서 요양급여 등재 절차 찾아줘", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "cdacaa05b2c94f1a32c4bdf3b6dc51a3a0cd303f30be95f6fe5770fdcbea4381", "key": {"prompt": "v2", "query": "자료에서 요양급여 등재 절차 찾아줘", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "a4f65f1f4fd73805edf557075a143b9449502d9f73845a0c45e12ae04210148e", "key": {"prompt": "v2", "query": "자료에서 요양급여 등재 절차 찾아줘", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "af0647ca1256189829179c1124b5a16b62e59d0a46f792bd7b40b08257a0dbfe", "key": {"prompt": "v2", "query": "의료 AI 성능이 의사보다 좋으면 주의의무 기준이 바뀌나", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "83ae6bef18893a691ad497e8e781fbeb26687a46241ab5537e01d783795df44c", "key": {"prompt": "v2", "query": "의료 AI 성능이 의사보다 좋으면 주의의무 기준이 바뀌나", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "d33f34dd0404bd21f4b4757cf5dfca8d4b18b19bc5be40e4014db243655f2a7b", "key": {"prompt": "v2", "query": "의료 AI 성능이 의사보다 좋으면 주의의무 기준이 바뀌나", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "2f6c9877be275476f6bc8dcd4053b6b68d497475ef73ffc2a108765f0c0c6206", "key": {"prompt": "v2", "query": "소프트웨어 업데이트하면 다시 허가받아야 해?", "rep": 0}, "v": "Day2RagAgent"}
+{"k": "26ad9e3c6c38c7a13ec0fcb3fc915d1bdfa0306ce0f7128107dc8ed1a01f85ea", "key": {"prompt": "v2", "query": "소프트웨어 업데이트하면 다시 허가받아야 해?", "rep": 1}, "v": "Day2RagAgent"}
+{"k": "c05dff1a645dfb877181aa645bb0f3fe3f58fef58eaa3ccd3fd769e629efa96c", "key": {"prompt": "v2", "query": "소프트웨어 업데이트하면 다시 허가받아야 해?", "rep": 2}, "v": "Day2RagAgent"}
+{"k": "d15367b0e63e42d60017794128b169fcc0cda0a9436fe83b70a4f48c94e7492b", "key": {"prompt": "v2", "query": "AI 반도체 실증 지원 과제 모집", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "35dcccc09383d956abf84cdb9e928d87135395e11d32e63ad9946ac085909105", "key": {"prompt": "v2", "query": "AI 반도체 실증 지원 과제 모집", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "578cbae98cd6b1e152df8f4af4c65c73bf5208a022929d5f6e0958a2a0ee7eef", "key": {"prompt": "v2", "query": "AI 반도체 실증 지원 과제 모집", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "0fef11640d1f38593ede9fe07404a7c6e9430c14510a4b3c2def8651d0064044", "key": {"prompt": "v2", "query": "의료기기 임상 지원금 받을 수 있는 데 있어?", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "fd76fd5cfb1e64b55796fa457fcc624d421507645aeb218b7560960f080a99bb", "key": {"prompt": "v2", "query": "의료기기 임상 지원금 받을 수 있는 데 있어?", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "b29448cffd453465d6e28f0e5ca7e6ffd0f23e5eb553071639b81a27526a200c", "key": {"prompt": "v2", "query": "의료기기 임상 지원금 받을 수 있는 데 있어?", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "b2aaf8011d2baa990faccae0e079f49075d7ce9f8eb9cfb15b4776f80eb4d7aa", "key": {"prompt": "v2", "query": "중기부 스마트공장 보급사업 신청", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "0da100589492405ce6bafd64edd343b6b0abf3b540c53eeb1af4b5948f594f0c", "key": {"prompt": "v2", "query": "중기부 스마트공장 보급사업 신청", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "0ddf72bcb898a84d84ed1768a28f2caea135cea69938eb8e3076f6a85801b364", "key": {"prompt": "v2", "query": "중기부 스마트공장 보급사업 신청", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "87ca3eb2fd918e87032bfc0ff488aeaebd87e43f0bd419db59829b4a01068d45", "key": {"prompt": "v2", "query": "공공기관 AI 도입 사업 입찰", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "b04dc5232704ff973d314135dcfda9413e361354d5d864fa0db12a000422dfd6", "key": {"prompt": "v2", "query": "공공기관 AI 도입 사업 입찰", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "cf07e40fde08c8968f6c36e5019d9a4e3898afbf633f8f4bc5cb9de15651e402", "key": {"prompt": "v2", "query": "공공기관 AI 도입 사업 입찰", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "8a698d6f3121f4d5493ae8069acd53657445020bc1f12216760e2fc3a991293f", "key": {"prompt": "v2", "query": "초기 스타트업 사업화 자금 지원 프로그램", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "92e7b1dcf6842274234de044d9285f2b567a4a8719dd85e259fcf8d9d5c53e70", "key": {"prompt": "v2", "query": "초기 스타트업 사업화 자금 지원 프로그램", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "44c4f065c6e78219cbf5220a207c726156a0db589fb4be427a8d12f6635911bb", "key": {"prompt": "v2", "query": "초기 스타트업 사업화 자금 지원 프로그램", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "e68869fb258112643787bef743cafcfa32fea0e77e0b4415a2e54ca89259390c", "key": {"prompt": "v2", "query": "헬스케어 데이터 바우처 공급기업 모집", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "a5e4fa27d7dcd639d72f5488d58f529ab452421823eee0ee10e1381b4ca684af", "key": {"prompt": "v2", "query": "헬스케어 데이터 바우처 공급기업 모집", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "e6489538bbe53e2aa512a95e672b47b768419201496c8b9108ca604ad893eda4", "key": {"prompt": "v2", "query": "헬스케어 데이터 바우처 공급기업 모집", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "b8c0b16fbf8c6643da8f7929e4c37d73151bfa73ba0c4143742a8f7ff32299b4", "key": {"prompt": "v2", "query": "AI 의료기기 인허가 받으려는 기업 대상 정부 지원", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "8464464e655cb66d873922cbefb6c9d3778df6342f67ad808a0f095dd9fc214b", "key": {"prompt": "v2", "query": "AI 의료기기 인허가 받으려는 기업 대상 정부 지원", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "8d8653c5b0c56dcfd461b612bb29b9e87d7c13f6e33b7a3abde8ca2feccd7879", "key": {"prompt": "v2", "query": "AI 의료기기 인허가 받으려는 기업 대상 정부 지원", "rep": 2}, "v": "Day3GovAgent"}
+{"k": "160e3db90e60ac967780ca32e09504067e6a9d4adce51f8f73f1c8049fe78040", "key": {"prompt": "v2", "query": "다음 달 마감되는 R&D 과제 뭐 있어", "rep": 0}, "v": "Day3GovAgent"}
+{"k": "00d869eb22addade6fccbf2c023c61291d08ef00be0310b3f71ca7469732ac4d", "key": {"prompt": "v2", "query": "다음 달 마감되는 R&D 과제 뭐 있어", "rep": 1}, "v": "Day3GovAgent"}
+{"k": "0489fc596649f40e35c18e55c21e6ad6920d6c8d9576474bfd0362a2005ac413", "key": {"prompt": "v2", "query": "다음 달 마감되는 R&D 과제 뭐 있어", "rep": 2}, "v": "Day3GovAgent"}

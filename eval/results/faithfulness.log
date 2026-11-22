@@ -1,0 +1,14 @@
+[faithfulness] 질문 88건 (게이트 통과분만 생성·채점)
+[cache:rag_generation.jsonl] hit=66 api_call=0 [cache:rag_judge.jsonl] hit=0 api_call=62
+                               0      1             2          3
+subset                       all  human  out_of_scope  synthetic
+n                             88     28            20         40
+answer_rate(answerable)    0.939  0.846           NaN        1.0
+refusal_acc(unanswerable)    1.0    1.0           1.0        NaN
+refused_by_gate               22      5            17          0
+refused_by_llm                 4      1             3          0
+faithfulness(sentence)       1.0    1.0           NaN        1.0
+fully_faithful_answers       1.0    1.0           NaN        1.0
+citation_validity            1.0    1.0           NaN        1.0
+citation_coverage          0.943  0.979           NaN      0.918
+answers_question             1.0    1.0           NaN        1.0

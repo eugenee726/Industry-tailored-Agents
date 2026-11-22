@@ -22,7 +22,8 @@ from student.day2.impl.embeddings import Embeddings
 from student.day2.impl.store import FaissStore  # 제공됨
 
 
-def build_index(paths: List[str], index_dir: str, model: str | None = None, batch_size: int = 128):
+def build_index(paths: List[str], index_dir: str, model: str | None = None, batch_size: int = 128,
+                chunk_size: int = 1200, chunk_overlap: int = 200):
     """
     절차:
       1) corpus = build_corpus(paths)
@@ -36,18 +37,7 @@ def build_index(paths: List[str], index_dir: str, model: str | None = None, batc
          store.add(vecs, corpus); store.save()
       6) save_docs_jsonl(corpus, docs_path)
     """
-    # ----------------------------------------------------------------------------
-    # TODO[DAY2-I-01] 구현 지침
-    #  - corpus = build_corpus(paths)
-    #  - texts = [...]
-    #  - emb = Embeddings(model, batch_size)
-    #  - vecs = emb.encode(texts)
-    #  - os.makedirs(index_dir, exist_ok=True)
-    #  - store = FaissStore(...); store.add(...); store.save()
-    #  - save_docs_jsonl(corpus, docs_path)
-    # ----------------------------------------------------------------------------
-    # 정답 구현:
-    corpus = build_corpus(paths)
+    corpus = build_corpus(paths, chunk_size=chunk_size, chunk_overlap=chunk_overlap)
     texts = [it["text"] for it in corpus]
 
     emb = Embeddings(model=model, batch_size=batch_size)
@@ -84,11 +74,5 @@ if __name__ == "__main__":
     ap.add_argument("--batch_size", type=int, default=128)
     args = ap.parse_args()
 
-    # ----------------------------------------------------------------------------
-    # TODO[DAY2-I-02] 구현 지침
-    #  - os.makedirs(args.index_dir, exist_ok=True)
-    #  - build_index(args.paths, args.index_dir, args.model, args.batch_size)
-    # ----------------------------------------------------------------------------
-    # 정답 구현:
     os.makedirs(args.index_dir, exist_ok=True)
     build_index(args.paths, args.index_dir, args.model, args.batch_size)

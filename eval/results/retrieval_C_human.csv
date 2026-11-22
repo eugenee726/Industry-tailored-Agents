@@ -1,0 +1,29 @@
+﻿id,query,answerable,has_evidence,rank,top_score,mean_top5,top1_chunk
+h_r01,업로드한 문서에서 AI 의료기기 정의 부분 요약해줘,True,False,,0.6489263772964478,0.6175138235092164,data\raw\Tech Legal Insights.pdf::chunk_0001
+h_r02,내부 자료 기준으로 디지털의료기기 변경허가 기준이 뭐야?,True,False,,0.5297160744667053,0.48824346661567686,data\raw\Tech Legal Insights.pdf::chunk_0003
+h_r03,논문 자료에서 인공지능 의료기기 책임 문제를 어떻게 다루는지 근거와 함께 알려줘,True,False,,0.7012048959732056,0.6826104044914245,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0012
+h_r04,첨부 문서 내용 중 FDA 규제 연혁 정리,True,False,,0.5221673250198364,0.5073981761932373,data\raw\Tech Legal Insights.pdf::chunk_0005
+h_r05,자료에 나온 신의료기술평가 절차 설명해줘,True,False,,0.4930154085159302,0.4804977595806122,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0053
+h_r06,인공지능 의료기기 오작동 시 누가 책임져?,True,False,,0.7275935411453247,0.667619264125824,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0055
+h_r07,식약처 AI 디지털의료기기 허가 가이드라인 핵심이 뭐야,True,False,,0.5554697513580322,0.5197522521018982,data\raw\Tech Legal Insights.pdf::chunk_0000
+h_r08,디지털의료제품법에서 디지털의료기기를 어떻게 정의해?,True,False,,0.5978627800941467,0.5318610846996308,data\raw\Tech Legal Insights.pdf::chunk_0002
+h_r09,의사가 AI 판단을 override해야 하는 이유,True,False,,0.5278171300888062,0.5151449561119079,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0075
+h_r10,AI 의료기기 무과실 보상제도 도입 논의 정리,True,False,,0.6195671558380127,0.5884817242622375,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0054
+h_r11,문서 근거로 설명의무 위반과 AI 의료기기 관계 알려줘,True,False,,0.6502033472061157,0.6101752400398255,data\raw\Tech Legal Insights.pdf::chunk_0008
+h_r12,회의록 자료에서 결정사항만 뽑아줘,False,False,,0.35092926025390625,0.3356166422367096,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0093
+h_r13,보고서 파일의 결론 부분 요약,False,False,,0.34875234961509705,0.3353083610534668,data\raw\Tech Legal Insights.pdf::chunk_0008
+h_r14,미국이랑 한국 AI 의료기기 허가 건수 비교한 내용 있어?,True,False,,0.6309275031089783,0.5892422080039978,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0050
+h_r15,블랙박스 의료 AI 규제 쟁점,True,False,,0.5078223347663879,0.4903404712677002,data\raw\Tech Legal Insights.pdf::chunk_0021
+h_r16,공동 사업 책임(common enterprise liability)이 뭐야,True,False,,0.5765267610549927,0.5057121455669403,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0124
+h_r17,MLMD가 기존 의료용 소프트웨어와 다른 점,True,False,,0.5694268941879272,0.5276113152503967,data\raw\Tech Legal Insights.pdf::chunk_0002
+h_r18,참고 문서 기준으로 AI 의료기기 규제 3단계 진화 설명,True,False,,0.5939594507217407,0.5658052563667297,data\raw\Tech Legal Insights.pdf::chunk_0009
+h_a01,AI 의료기기 규제가 요즘 어떻게 바뀌고 있어?,True,False,,0.5474525690078735,0.531451678276062,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0045
+h_a06,AI 진단 보조 소프트웨어 관련해서 알려줘,True,False,,0.4531446099281311,0.4376799285411835,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0039
+h_hr1,PCCP가 뭐고 왜 필요해?,True,False,,0.387654185295105,0.3153632164001465,data\raw\Tech Legal Insights.pdf::chunk_0004
+h_hr2,AI 의료기기 등급 분류 기준,True,False,,0.591306209564209,0.5803428530693054,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0025
+h_hr3,의료기기 2등급은 어디서 인증받아?,True,False,,0.47545325756073,0.43370033502578736,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0025
+h_hr4,AI가 오진하면 의사 책임이야 제조사 책임이야?,True,False,,0.6153011322021484,0.565462303161621,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0069
+h_hr5,생성형 AI 의료기기 허가 가이드라인 주요 내용,True,False,,0.5787992477416992,0.5681565761566162,data\raw\Tech Legal Insights.pdf::chunk_0000
+h_hr6,자료에서 요양급여 등재 절차 찾아줘,True,False,,0.3805615305900574,0.34010918736457824,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0054
+h_hr7,의료 AI 성능이 의사보다 좋으면 주의의무 기준이 바뀌나,True,False,,0.6639895439147949,0.6258196711540223,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0074
+h_hr8,소프트웨어 업데이트하면 다시 허가받아야 해?,True,False,,0.4005383253097534,0.3446304440498352,data\raw\Tech Legal Insights.pdf::chunk_0011

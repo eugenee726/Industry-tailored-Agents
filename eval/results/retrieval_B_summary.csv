@@ -1,0 +1,2 @@
+﻿exp,chunk_size,chunk_overlap,hybrid,n_chunks,n_answerable,hit@1,hit@3,hit@5,mrr
+B,500,100,False,189,40,0.55,0.8,0.8,0.679

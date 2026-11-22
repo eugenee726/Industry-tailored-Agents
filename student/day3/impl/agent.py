@@ -23,12 +23,10 @@ def _set_source_topk(plan: Day3Plan) -> Day3Plan:
     fetchers 모듈의 (기본)소스별 TopK 상수와 plan 값을 싱크.
     - 이 함수는 실습 편의를 위해 제공. 내부에서 fetchers.NIPA_TOPK 등 값 갱신.
     """
-    # TODO[DAY3-I-01]:
     # 1) plan.nipa_topk, plan.bizinfo_topk, plan.web_topk 값을 정수로 변환해 1 이상으로 보정
     # 2) fetchers.NIPA_TOPK / fetchers.BIZINFO_TOPK / fetchers.WEB_TOPK에 반영
     # 3) 보정한 plan을 반환
     # ----------------------------------------------------------------------------
-    # 정답 구현:
     plan.nipa_topk = max(1, int(plan.nipa_topk))
     plan.bizinfo_topk = max(1, int(plan.bizinfo_topk))
     plan.web_topk = max(0, int(plan.web_topk))  # 웹은 0도 허용

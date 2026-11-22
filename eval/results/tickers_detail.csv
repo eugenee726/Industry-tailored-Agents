@@ -1,0 +1,31 @@
+﻿query,gold,before,after
+AAPL 주가 알려줘,['AAPL'],['AAPL'],['AAPL']
+NVDA/TSLA 비교,"['NVDA', 'TSLA']","['NVDA', 'TSLA']","['NVDA', 'TSLA']"
+삼성전자 005930 분석,['005930'],['005930'],['005930']
+MSFT랑 GOOGL 시총 비교,"['MSFT', 'GOOGL']",['GOOGL'],"['MSFT', 'GOOGL']"
+AAPL주가 어때,['AAPL'],[],['AAPL']
+000660 SK하이닉스 시세,['000660'],['000660'],"['SK', '000660']"
+AMZN 최근 뉴스,['AMZN'],['AMZN'],['AMZN']
+F 주가,['F'],['F'],['F']
+"META, NFLX 실적","['META', 'NFLX']","['META', 'NFLX']","['META', 'NFLX']"
+035420 네이버 종가,['035420'],['035420'],['035420']
+TSLA 테슬라 전망,['TSLA'],['TSLA'],['TSLA']
+AMD 반도체 동향,['AMD'],['AMD'],['AMD']
+ai 의학에 대해 알려줘,[],['AI'],[]
+AI 의료기기 규제 동향,[],['AI'],[]
+CEO 인터뷰 기사 찾아줘,[],['CEO'],[]
+FDA 승인 AI 기기 뉴스,[],"['FDA', 'AI']",[]
+ESG 경영 트렌드,[],['ESG'],[]
+R&D 지원사업 공고,[],"['R', 'D']",[]
+NIPA 바우처 모집,[],['NIPA'],[]
+생성형 ai 시장 전망,[],['AI'],[]
+IT 업계 채용 동향,[],['IT'],[]
+ETF 투자 트렌드,[],['ETF'],[]
+2026년 반도체 수출 동향,[],[],[]
+openai 최신 발표,[],[],[]
+LLM 기반 RAG 서비스 사례,[],"['LLM', 'RAG']",[]
+IPO 예정 기업 목록,[],['IPO'],[]
+US 금리 전망,[],['US'],[]
+헬스케어 AI 스타트업 뉴스,[],['AI'],[]
+API 연동 가이드,[],['API'],[]
+the latest news on apple,[],"['THE', 'NEWS', 'ON', 'APPLE']",[]

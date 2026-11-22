@@ -1,0 +1,64 @@
+[routing] prompt=v2 queries=60 repeats=3 (최대 API 호출 180회, 캐시 적중분 제외)
+[cache:routing.jsonl] hit=0 api_call=180
+== Routing v2 ==
+Accuracy: 1.000  |  3회 반복 일관성: 1.000
+       label  precision  recall  f1  support
+Day1WebAgent        1.0     1.0 1.0       20
+Day2RagAgent        1.0     1.0 1.0       21
+Day3GovAgent        1.0     1.0 1.0       19
+Confusion matrix
+               Day1WebAgent  Day2RagAgent  Day3GovAgent
+true \ pred                                           
+Day1WebAgent            20             0             0
+Day2RagAgent             0            21             0
+Day3GovAgent             0             0            19
+By difficulty
+             accuracy  count
+difficulty                 
+ambiguous        1.0      6
+easy             1.0     33
+hard             1.0     21
+==========
+[routing] prompt=v1 queries=24 repeats=3 (최대 API 호출 72회, 캐시 적중분 제외)
+[cache:routing.jsonl] hit=0 api_call=72
+== Routing v1 ==
+Accuracy: 0.917  |  3회 반복 일관성: 0.917
+       label  precision  recall    f1  support
+Day1WebAgent      0.889    1.00 0.941        8
+Day2RagAgent      1.000    0.75 0.857        8
+Day3GovAgent      1.000    1.00 1.000        8
+Confusion matrix
+               Day1WebAgent  Day2RagAgent  Day3GovAgent  NONE
+true \ pred                                                 
+Day1WebAgent             8             0             0     0
+Day2RagAgent             1             6             0     1
+Day3GovAgent             0             0             8     0
+By difficulty
+             accuracy  count
+difficulty                 
+easy           1.000      9
+hard           0.867     15
+Misrouted:
+  [hr3] 의료기기 2등급은 어디서 인증받아?  expected=Day2RagAgent pred=Day1WebAgent
+  [hr4] AI가 오진하면 의사 책임이야 제조사 책임이야?  expected=Day2RagAgent pred=NONE
+==========
+[routing] prompt=v2 queries=24 repeats=3 (최대 API 호출 72회, 캐시 적중분 제외)
+[cache:routing.jsonl] hit=0 api_call=72
+== Routing v2 ==
+Accuracy: 1.000  |  3회 반복 일관성: 1.000
+       label  precision  recall  f1  support
+Day1WebAgent        1.0     1.0 1.0        8
+Day2RagAgent        1.0     1.0 1.0        8
+Day3GovAgent        1.0     1.0 1.0        8
+Confusion matrix
+               Day1WebAgent  Day2RagAgent  Day3GovAgent
+true \ pred                                           
+Day1WebAgent             8             0             0
+Day2RagAgent             0             8             0
+Day3GovAgent             0             0             8
+By difficulty
+             accuracy  count
+difficulty                 
+easy             1.0      9
+hard             1.0     15
+==========

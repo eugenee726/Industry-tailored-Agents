@@ -1,0 +1,5 @@
+﻿subset,n,answer_rate(answerable),refusal_acc(unanswerable),refused_by_gate,refused_by_llm,faithfulness(sentence),fully_faithful_answers,citation_validity,citation_coverage,answers_question
+all,88,0.939,1.0,22,4,1.0,1.0,1.0,0.943,1.0
+human,28,0.846,1.0,5,1,1.0,1.0,1.0,0.979,1.0
+out_of_scope,20,,1.0,17,3,,,,,
+synthetic,40,1.0,,0,0,1.0,1.0,1.0,0.918,1.0
