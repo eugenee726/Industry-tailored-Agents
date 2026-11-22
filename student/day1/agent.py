@@ -17,6 +17,7 @@ from google.adk.agents.callback_context import CallbackContext
 from student.common.llm import adk_model
 from google.adk.models.llm_request import LlmRequest
 from google.adk.models.llm_response import LlmResponse
+from student.common.adk_utils import user_query
 
 from student.common.schemas import Day1Plan
 from student.common.writer import render_day1, render_enveloped
@@ -151,9 +152,8 @@ def before_model_callback(
     """
  
     try:
-        last = llm_request.contents[-1]
-        if last.role == "user":
-            query = last.parts[0].text
+        query = user_query(callback_context, llm_request)
+        if query:
             payload = _handle(query)
 
             body_md = render_day1(query, payload)
@@ -193,4 +193,7 @@ day1_web_agent = Agent(
     ),
     tools=[],
     before_model_callback=before_model_callback,
+    # 답변 후 다음 질문은 다시 오케스트레이터가 라우팅하도록 (ADK 기본값은 넘겨받은 에이전트가 계속 응답)
+    disallow_transfer_to_parent=True,
+    disallow_transfer_to_peers=True,
 )

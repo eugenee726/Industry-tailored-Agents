@@ -14,6 +14,7 @@ from google.adk.agents.callback_context import CallbackContext
 from student.common.llm import adk_model
 from google.adk.models.llm_request import LlmRequest
 from google.adk.models.llm_response import LlmResponse
+from student.common.adk_utils import user_query
 
 # Day3 본체
 from student.day3.impl.agent import Day3Agent
@@ -49,9 +50,8 @@ def before_model_callback(
     **kwargs,
 ) -> Optional[LlmResponse]:
     try:
-        last = llm_request.contents[-1]
-        if last.role == "user":
-            query = last.parts[0].text
+        query = user_query(callback_context, llm_request)
+        if query:
             payload = _handle(query)
 
             body_md = render_day3(query, payload)
@@ -76,4 +76,7 @@ day3_gov_agent = Agent(
     instruction="질의를 기반으로 정부/공공 포털에서 관련 공고를 수집하고 표로 요약해라.",
     tools=[],
     before_model_callback=before_model_callback,
+    # 답변 후 다음 질문은 다시 오케스트레이터가 라우팅하도록 (ADK 기본값은 넘겨받은 에이전트가 계속 응답)
+    disallow_transfer_to_parent=True,
+    disallow_transfer_to_peers=True,
 )
