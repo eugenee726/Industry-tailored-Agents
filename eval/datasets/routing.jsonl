@@ -1,0 +1,60 @@
+{"id": "w01", "query": "엔비디아 주가 지금 얼마야?", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "w02", "query": "삼성전자 3분기 실적 발표 내용 알려줘", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "w03", "query": "AAPL 최근 뉴스 정리해줘", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "w04", "query": "오늘 반도체 업계 동향 요약", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "w05", "query": "루닛이 어떤 회사인지 개요 알려줘", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "w06", "query": "TSLA랑 NVDA 주가 비교해줘", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "w07", "query": "생성형 AI 시장 최신 트렌드가 궁금해", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "w08", "query": "005930 시세 확인", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "w09", "query": "뷰노 요즘 어때?", "expected": "Day1WebAgent", "difficulty": "hard", "note": "회사명만 있는 구어체"}
+{"id": "w10", "query": "오픈AI 이번 주에 뭐 발표했어?", "expected": "Day1WebAgent", "difficulty": "hard", "note": "'뉴스' 키워드 없음"}
+{"id": "w11", "query": "카카오헬스케어 최근 투자 유치 소식", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "w12", "query": "헬스케어 스타트업 중에 요즘 핫한 곳 어디야", "expected": "Day1WebAgent", "difficulty": "hard", "note": "헬스케어 단어로 Day2 혼동 가능"}
+{"id": "w13", "query": "FDA가 최근에 승인한 AI 의료기기 뉴스 있어?", "expected": "Day1WebAgent", "difficulty": "hard", "note": "의료기기 주제지만 '최근 뉴스' → 웹"}
+{"id": "w14", "query": "마이크로소프트 시가총액 순위", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "w15", "query": "환율 오늘 1달러에 얼마야", "expected": "Day1WebAgent", "difficulty": "hard", "note": "주가는 아니지만 실시간 웹 정보"}
+{"id": "w16", "query": "네이버 하이퍼클로바X 관련 기사 찾아줘", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "w17", "query": "의료 AI 업계에서 이번 달에 있었던 일", "expected": "Day1WebAgent", "difficulty": "hard", "note": "의료 AI(Day2 주제) + 최신성(웹)"}
+{"id": "w18", "query": "구글 딥마인드 최근 연구 성과 소식", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "r01", "query": "업로드한 문서에서 AI 의료기기 정의 부분 요약해줘", "expected": "Day2RagAgent", "difficulty": "easy"}
+{"id": "r02", "query": "내부 자료 기준으로 디지털의료기기 변경허가 기준이 뭐야?", "expected": "Day2RagAgent", "difficulty": "easy"}
+{"id": "r03", "query": "논문 자료에서 인공지능 의료기기 책임 문제를 어떻게 다루는지 근거와 함께 알려줘", "expected": "Day2RagAgent", "difficulty": "easy"}
+{"id": "r04", "query": "첨부 문서 내용 중 FDA 규제 연혁 정리", "expected": "Day2RagAgent", "difficulty": "easy"}
+{"id": "r05", "query": "자료에 나온 신의료기술평가 절차 설명해줘", "expected": "Day2RagAgent", "difficulty": "easy"}
+{"id": "r06", "query": "인공지능 의료기기 오작동 시 누가 책임져?", "expected": "Day2RagAgent", "difficulty": "hard", "note": "'문서' 키워드 없이 코퍼스 주제 질문"}
+{"id": "r07", "query": "식약처 AI 디지털의료기기 허가 가이드라인 핵심이 뭐야", "expected": "Day2RagAgent", "difficulty": "hard", "note": "가이드라인은 코퍼스(Tech Legal Insights)에 있음"}
+{"id": "r08", "query": "디지털의료제품법에서 디지털의료기기를 어떻게 정의해?", "expected": "Day2RagAgent", "difficulty": "hard", "note": "법령 해석 = 코퍼스 주제"}
+{"id": "r09", "query": "의사가 AI 판단을 override해야 하는 이유", "expected": "Day2RagAgent", "difficulty": "hard"}
+{"id": "r10", "query": "AI 의료기기 무과실 보상제도 도입 논의 정리", "expected": "Day2RagAgent", "difficulty": "hard"}
+{"id": "r11", "query": "문서 근거로 설명의무 위반과 AI 의료기기 관계 알려줘", "expected": "Day2RagAgent", "difficulty": "easy"}
+{"id": "r12", "query": "회의록 자료에서 결정사항만 뽑아줘", "expected": "Day2RagAgent", "difficulty": "easy"}
+{"id": "r13", "query": "보고서 파일의 결론 부분 요약", "expected": "Day2RagAgent", "difficulty": "easy"}
+{"id": "r14", "query": "미국이랑 한국 AI 의료기기 허가 건수 비교한 내용 있어?", "expected": "Day2RagAgent", "difficulty": "hard", "note": "통계 질문이지만 코퍼스에 있음"}
+{"id": "r15", "query": "블랙박스 의료 AI 규제 쟁점", "expected": "Day2RagAgent", "difficulty": "hard"}
+{"id": "r16", "query": "공동 사업 책임(common enterprise liability)이 뭐야", "expected": "Day2RagAgent", "difficulty": "hard"}
+{"id": "r17", "query": "MLMD가 기존 의료용 소프트웨어와 다른 점", "expected": "Day2RagAgent", "difficulty": "hard"}
+{"id": "r18", "query": "참고 문서 기준으로 AI 의료기기 규제 3단계 진화 설명", "expected": "Day2RagAgent", "difficulty": "easy"}
+{"id": "g01", "query": "AI 바우처 지원사업 공고 찾아줘", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "g02", "query": "NIPA 2026년 모집 공고 있어?", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "g03", "query": "중소기업 R&D 지원금 신청할 수 있는 사업", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "g04", "query": "기업마당에 올라온 헬스케어 지원사업", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "g05", "query": "나라장터 AI 관련 입찰 공고", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "g06", "query": "디지털헬스케어 실증 과제 RFP 나온 거 있어?", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "g07", "query": "스타트업이 받을 수 있는 정부 돈 뭐 있어", "expected": "Day3GovAgent", "difficulty": "hard", "note": "구어체, '공고' 키워드 없음"}
+{"id": "g08", "query": "의료 AI 회사가 지원할 만한 국가 사업 알려줘", "expected": "Day3GovAgent", "difficulty": "hard", "note": "의료 AI(Day2 주제)와 혼동 가능"}
+{"id": "g09", "query": "이번 달 마감인 창업 지원 프로그램", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "g10", "query": "K-Startup 예비창업패키지 모집 일정", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "g11", "query": "클라우드 이용 바우처 신청 기간", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "g12", "query": "데이터 가공 지원사업 공모", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "g13", "query": "AI 의료기기 인허가 컨설팅 지원해주는 사업 있나?", "expected": "Day3GovAgent", "difficulty": "hard", "note": "인허가(Day2 주제) + 지원사업(Day3)"}
+{"id": "g14", "query": "조달청에 올라온 SW 개발 용역 건", "expected": "Day3GovAgent", "difficulty": "hard", "note": "'공고' 대신 '용역 건'"}
+{"id": "g15", "query": "수출 바우처 모집하는 곳", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "g16", "query": "과기정통부 AI 융합 프로젝트 과제 공고", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "g17", "query": "청년 창업자 대상 정부 보조금", "expected": "Day3GovAgent", "difficulty": "hard"}
+{"id": "g18", "query": "정보통신산업진흥원에서 하는 사업 중에 지금 신청 가능한 거", "expected": "Day3GovAgent", "difficulty": "hard", "note": "기관 정식명칭"}
+{"id": "a01", "query": "AI 의료기기 규제가 요즘 어떻게 바뀌고 있어?", "expected": "Day2RagAgent", "difficulty": "ambiguous", "note": "규칙 4: 문서 기반 주제면 RAG-first"}
+{"id": "a02", "query": "식약처 가이드라인 관련 최신 기사", "expected": "Day1WebAgent", "difficulty": "ambiguous", "note": "'최신 기사' 명시 → 웹"}
+{"id": "a03", "query": "의료 AI 지원사업이랑 규제 이슈 같이 알려줘", "expected": "Day3GovAgent", "difficulty": "ambiguous", "note": "규칙 4: 공고 키워드 명확하면 Day3 우선"}
+{"id": "a04", "query": "헬스케어 AI", "expected": "Day2RagAgent", "difficulty": "ambiguous", "note": "단어만 있는 질의 → 규칙 4 RAG-first"}
+{"id": "a05", "query": "루닛 주가랑 AI 의료기기 책임 논의", "expected": "Day1WebAgent", "difficulty": "ambiguous", "note": "주가가 먼저 나오는 복합 질의. 첫 라우팅만 평가"}
+{"id": "a06", "query": "AI 진단 보조 소프트웨어 관련해서 알려줘", "expected": "Day2RagAgent", "difficulty": "ambiguous", "note": "코퍼스 주제 → RAG-first"}

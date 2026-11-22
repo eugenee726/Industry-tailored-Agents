@@ -1,0 +1,25 @@
+﻿id,query,expected,difficulty,pred,majority,consistent,all_preds,correct
+hw1,카카오 주가 요즘 왜 이래,Day1WebAgent,hard,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+hw2,SK하이닉스 HBM 관련 최근 기사,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+hw3,의료 AI 기업 중 올해 상장한 곳,Day1WebAgent,hard,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+hw4,어제 나스닥 마감 상황,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+hw5,앤트로픽이 최근 공개한 모델 소식,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+hw6,셀바스AI는 무슨 사업을 해?,Day1WebAgent,hard,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+hw7,식약처가 이번 주 발표한 보도자료,Day1WebAgent,hard,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+hw8,GOOGL 52주 최고가,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+hr1,PCCP가 뭐고 왜 필요해?,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+hr2,AI 의료기기 등급 분류 기준,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+hr3,의료기기 2등급은 어디서 인증받아?,Day2RagAgent,hard,Day1WebAgent,Day1WebAgent,False,Day1WebAgent|Day1WebAgent|Day2RagAgent,False
+hr4,AI가 오진하면 의사 책임이야 제조사 책임이야?,Day2RagAgent,hard,NONE,NONE,True,NONE|NONE|NONE,False
+hr5,생성형 AI 의료기기 허가 가이드라인 주요 내용,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+hr6,자료에서 요양급여 등재 절차 찾아줘,Day2RagAgent,easy,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+hr7,의료 AI 성능이 의사보다 좋으면 주의의무 기준이 바뀌나,Day2RagAgent,hard,Day2RagAgent,NONE,False,Day2RagAgent|NONE|NONE,True
+hr8,소프트웨어 업데이트하면 다시 허가받아야 해?,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+hg1,AI 반도체 실증 지원 과제 모집,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+hg2,의료기기 임상 지원금 받을 수 있는 데 있어?,Day3GovAgent,hard,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+hg3,중기부 스마트공장 보급사업 신청,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+hg4,공공기관 AI 도입 사업 입찰,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+hg5,초기 스타트업 사업화 자금 지원 프로그램,Day3GovAgent,hard,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+hg6,헬스케어 데이터 바우처 공급기업 모집,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+hg7,AI 의료기기 인허가 받으려는 기업 대상 정부 지원,Day3GovAgent,hard,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+hg8,다음 달 마감되는 R&D 과제 뭐 있어,Day3GovAgent,hard,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True

@@ -1,0 +1,87 @@
+[routing] prompt=v1 queries=60 repeats=3 (최대 API 호출 180회, 캐시 적중분 제외)
+  01/60 w01 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  02/60 w02 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  03/60 w03 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  04/60 w04 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  05/60 w05 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  06/60 w06 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  07/60 w07 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  08/60 w08 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  09/60 w09 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  10/60 w10 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  11/60 w11 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  12/60 w12 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  13/60 w13 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  14/60 w14 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  15/60 w15 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  16/60 w16 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  17/60 w17 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  18/60 w18 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  19/60 r01 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  20/60 r02 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  21/60 r03 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  22/60 r04 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  23/60 r05 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  24/60 r06 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  25/60 r07 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  26/60 r08 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  27/60 r09 → ['Day2RagAgent', 'Day2RagAgent', 'NONE'] OK
+  28/60 r10 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  29/60 r11 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  30/60 r12 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  31/60 r13 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  32/60 r14 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  33/60 r15 → ['Day2RagAgent', 'Day2RagAgent', 'Day1WebAgent'] OK
+  34/60 r16 → ['NONE', 'NONE', 'NONE'] MISS
+  35/60 r17 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  36/60 r18 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+  37/60 g01 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  38/60 g02 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  39/60 g03 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  40/60 g04 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  41/60 g05 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  42/60 g06 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  43/60 g07 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  44/60 g08 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  45/60 g09 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  46/60 g10 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  47/60 g11 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  48/60 g12 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  49/60 g13 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  50/60 g14 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  51/60 g15 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  52/60 g16 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  53/60 g17 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  54/60 g18 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  55/60 a01 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] MISS
+  56/60 a02 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  57/60 a03 → ['Day3GovAgent', 'Day3GovAgent', 'Day3GovAgent'] OK
+  58/60 a04 → ['Day2RagAgent', 'Day2RagAgent', 'Day1WebAgent'] OK
+  59/60 a05 → ['Day1WebAgent', 'Day1WebAgent', 'Day1WebAgent'] OK
+  60/60 a06 → ['Day2RagAgent', 'Day2RagAgent', 'Day2RagAgent'] OK
+[cache:routing.jsonl] hit=149 api_call=31
+
+== Routing v1 ==
+Accuracy: 0.967  |  3회 반복 일관성: 0.950
+       label  precision  recall    f1  support
+Day1WebAgent      0.952   1.000 0.976       20
+Day2RagAgent      1.000   0.905 0.950       21
+Day3GovAgent      1.000   1.000 1.000       19
+
+Confusion matrix
+               Day1WebAgent  Day2RagAgent  Day3GovAgent  NONE
+true \ pred                                                 
+Day1WebAgent            20             0             0     0
+Day2RagAgent             1            19             0     1
+Day3GovAgent             0             0            19     0
+
+By difficulty
+             accuracy  count
+difficulty                 
+ambiguous      0.833      6
+easy           1.000     33
+hard           0.952     21
+
+Misrouted:
+  [r16] 공동 사업 책임(common enterprise liability)이 뭐야  expected=Day2RagAgent pred=NONE
+  [a01] AI 의료기기 규제가 요즘 어떻게 바뀌고 있어?  expected=Day2RagAgent pred=Day1WebAgent

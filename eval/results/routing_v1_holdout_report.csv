@@ -1,0 +1,4 @@
+﻿label,precision,recall,f1,support
+Day1WebAgent,0.8888888888888888,1.0,0.9411764705882353,8
+Day2RagAgent,1.0,0.75,0.8571428571428571,8
+Day3GovAgent,1.0,1.0,1.0,8

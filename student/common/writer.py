@@ -74,10 +74,19 @@ def render_day2(query: str, payload: dict) -> str:
     lines.append(f"**질의:** {query}")
     lines.append("")
 
-    # ── 추가: 초안(answer) 표시
+    # 신뢰도 게이트 결과 (eval/run_gate.py로 정한 3구간 정책)
+    gate = (payload or {}).get("gating") or {}
+    zone = gate.get("zone")
+    if zone == "warn":
+        lines.append(f"> ⚠️ 근거 약함 (top_score {gate.get('top_score', 0):.3f}) — 아래 답변은 참고용이며, 웹 검색으로 보강을 권장합니다.")
+        lines.append("")
+    elif zone == "refuse":
+        lines.append(f"> 보유 문서에서 충분한 근거를 찾지 못했습니다 (top_score {gate.get('top_score', 0):.3f}). 웹 검색(Day1)을 이용하세요.")
+        lines.append("")
+
     answer = (payload or {}).get("answer") or ""
     if answer:
-        lines.append("## 초안 요약")
+        lines.append("## 답변")
         lines.append("")
         lines.append(answer.strip())
         lines.append("")
