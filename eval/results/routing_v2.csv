@@ -1,0 +1,61 @@
+﻿id,query,expected,difficulty,pred,majority,consistent,all_preds,correct
+w01,엔비디아 주가 지금 얼마야?,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w02,삼성전자 3분기 실적 발표 내용 알려줘,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w03,AAPL 최근 뉴스 정리해줘,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w04,오늘 반도체 업계 동향 요약,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w05,루닛이 어떤 회사인지 개요 알려줘,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w06,TSLA랑 NVDA 주가 비교해줘,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w07,생성형 AI 시장 최신 트렌드가 궁금해,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w08,005930 시세 확인,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w09,뷰노 요즘 어때?,Day1WebAgent,hard,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w10,오픈AI 이번 주에 뭐 발표했어?,Day1WebAgent,hard,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w11,카카오헬스케어 최근 투자 유치 소식,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w12,헬스케어 스타트업 중에 요즘 핫한 곳 어디야,Day1WebAgent,hard,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w13,FDA가 최근에 승인한 AI 의료기기 뉴스 있어?,Day1WebAgent,hard,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w14,마이크로소프트 시가총액 순위,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w15,환율 오늘 1달러에 얼마야,Day1WebAgent,hard,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w16,네이버 하이퍼클로바X 관련 기사 찾아줘,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w17,의료 AI 업계에서 이번 달에 있었던 일,Day1WebAgent,hard,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+w18,구글 딥마인드 최근 연구 성과 소식,Day1WebAgent,easy,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+r01,업로드한 문서에서 AI 의료기기 정의 부분 요약해줘,Day2RagAgent,easy,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r02,내부 자료 기준으로 디지털의료기기 변경허가 기준이 뭐야?,Day2RagAgent,easy,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r03,논문 자료에서 인공지능 의료기기 책임 문제를 어떻게 다루는지 근거와 함께 알려줘,Day2RagAgent,easy,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r04,첨부 문서 내용 중 FDA 규제 연혁 정리,Day2RagAgent,easy,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r05,자료에 나온 신의료기술평가 절차 설명해줘,Day2RagAgent,easy,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r06,인공지능 의료기기 오작동 시 누가 책임져?,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r07,식약처 AI 디지털의료기기 허가 가이드라인 핵심이 뭐야,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r08,디지털의료제품법에서 디지털의료기기를 어떻게 정의해?,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r09,의사가 AI 판단을 override해야 하는 이유,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r10,AI 의료기기 무과실 보상제도 도입 논의 정리,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r11,문서 근거로 설명의무 위반과 AI 의료기기 관계 알려줘,Day2RagAgent,easy,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r12,회의록 자료에서 결정사항만 뽑아줘,Day2RagAgent,easy,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r13,보고서 파일의 결론 부분 요약,Day2RagAgent,easy,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r14,미국이랑 한국 AI 의료기기 허가 건수 비교한 내용 있어?,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r15,블랙박스 의료 AI 규제 쟁점,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r16,공동 사업 책임(common enterprise liability)이 뭐야,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r17,MLMD가 기존 의료용 소프트웨어와 다른 점,Day2RagAgent,hard,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+r18,참고 문서 기준으로 AI 의료기기 규제 3단계 진화 설명,Day2RagAgent,easy,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+g01,AI 바우처 지원사업 공고 찾아줘,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g02,NIPA 2026년 모집 공고 있어?,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g03,중소기업 R&D 지원금 신청할 수 있는 사업,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g04,기업마당에 올라온 헬스케어 지원사업,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g05,나라장터 AI 관련 입찰 공고,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g06,디지털헬스케어 실증 과제 RFP 나온 거 있어?,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g07,스타트업이 받을 수 있는 정부 돈 뭐 있어,Day3GovAgent,hard,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g08,의료 AI 회사가 지원할 만한 국가 사업 알려줘,Day3GovAgent,hard,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g09,이번 달 마감인 창업 지원 프로그램,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g10,K-Startup 예비창업패키지 모집 일정,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g11,클라우드 이용 바우처 신청 기간,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g12,데이터 가공 지원사업 공모,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g13,AI 의료기기 인허가 컨설팅 지원해주는 사업 있나?,Day3GovAgent,hard,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g14,조달청에 올라온 SW 개발 용역 건,Day3GovAgent,hard,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g15,수출 바우처 모집하는 곳,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g16,과기정통부 AI 융합 프로젝트 과제 공고,Day3GovAgent,easy,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g17,청년 창업자 대상 정부 보조금,Day3GovAgent,hard,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+g18,정보통신산업진흥원에서 하는 사업 중에 지금 신청 가능한 거,Day3GovAgent,hard,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+a01,AI 의료기기 규제가 요즘 어떻게 바뀌고 있어?,Day2RagAgent,ambiguous,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+a02,식약처 가이드라인 관련 최신 기사,Day1WebAgent,ambiguous,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+a03,의료 AI 지원사업이랑 규제 이슈 같이 알려줘,Day3GovAgent,ambiguous,Day3GovAgent,Day3GovAgent,True,Day3GovAgent|Day3GovAgent|Day3GovAgent,True
+a04,헬스케어 AI,Day2RagAgent,ambiguous,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True
+a05,루닛 주가랑 AI 의료기기 책임 논의,Day1WebAgent,ambiguous,Day1WebAgent,Day1WebAgent,True,Day1WebAgent|Day1WebAgent|Day1WebAgent,True
+a06,AI 진단 보조 소프트웨어 관련해서 알려줘,Day2RagAgent,ambiguous,Day2RagAgent,Day2RagAgent,True,Day2RagAgent|Day2RagAgent|Day2RagAgent,True

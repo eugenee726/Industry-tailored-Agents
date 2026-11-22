@@ -1,0 +1,61 @@
+﻿id,query,answerable,has_evidence,rank,top_score,mean_top5,top1_chunk
+q01,식약처가 2025년 1월에 세계 최초로 마련한 AI 의료기기 관련 가이드라인은 무엇인가요?,True,True,1.0,0.6221462488174438,0.5833184361457825,data\raw\Tech Legal Insights.pdf::chunk_0000
+q02,미국 FDA의 임상의사결정지원(CDS) 소프트웨어 최종 가이드라인에서 의료전문가용 소프트웨어가 비의료기기로 인정되려면 기준을 몇 가지 충족해야 하나요?,True,True,1.0,0.6692362427711487,0.6139384746551514,data\raw\Tech Legal Insights.pdf::chunk_0004
+q03,"식약처가 생성형 인공지능 의료기기의 특성 중 하나로 꼽은, 의료진조차 출력 근거를 이해하기 어렵다는 문제는 무엇인가요?",True,True,1.0,0.5999184846878052,0.553685438632965,data\raw\Tech Legal Insights.pdf::chunk_0006
+q04,"생성형 AI 의료기기를 사용해 수술 필요성을 판단한 의사는 AI의 판단 근거까지 환자에게 설명해야 하나요, 아니면 어느 범위까지만 설명하면 되나요?",True,True,1.0,0.6707809567451477,0.6253343820571899,data\raw\Tech Legal Insights.pdf::chunk_0008
+q05,미국 FDA는 AI 디지털의료기기의 버전 업데이트와 관련해 어떤 개념을 도입해 사전에 허가받은 범위 내의 변경만 인정하고 있나요?,True,True,1.0,0.6171761751174927,0.586125659942627,data\raw\Tech Legal Insights.pdf::chunk_0010
+q06,"FDA 기술 등급 기준으로 볼 때 다빈치 로봇 수술 시스템은 어느 레벨에 해당하며, 관절수술에 쓰이는 Mako 시스템은 어느 레벨인가요?",True,True,1.0,0.5610396862030029,0.44609334468841555,data\raw\Tech Legal Insights.pdf::chunk_0014
+q07,EU AI법상 의료 분야 AI의 고위험 영역 의무사항을 이행해야 하는 최종 시한은 언제인가요?,True,True,1.0,0.6207165122032166,0.5444504976272583,data\raw\Tech Legal Insights.pdf::chunk_0016
+q08,"전통적인 의료보험은 오랫동안 어떤 방식으로 운영되어 왔고, 디지털과 AI의 영향으로 어떤 방향으로 바뀌고 있나요?",True,True,6.0,0.6120716333389282,0.5524523496627808,data\raw\Tech Legal Insights.pdf::chunk_0017
+q09,MS가 6월 30일 공개한 AI 진단 오케스트레이터는 숙련된 의사 그룹과 비교해 진단 정확도가 어느 정도라고 하나요?,True,True,1.0,0.6151056289672852,0.5268528640270234,data\raw\Tech Legal Insights.pdf::chunk_0021
+q10,"인공지능 의료기기가 오작동해 환자에게 손해가 생겼을 때, 의사 외에 책임 배분을 검토해야 할 주체와 제도에는 어떤 것들이 있나요?",True,True,15.0,0.6646500825881958,0.6518738031387329,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0055
+q11,현재 의료 분야에서 인공지능이 활용되는 대표적인 분야로 꼽히는 두 가지는 무엇인가요?,True,True,1.0,0.7104594707489014,0.6512100696563721,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0004
+q12,"인공지능 의료기기와 관련된 민사책임 논의에서 기존 연구는 주로 어떤 책임 주체에 집중해 왔고, 이 글은 그 범위를 어떻게 넓히려 하나요?",True,True,16.0,0.6711910963058472,0.6521855354309082,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0014
+q13,인공지능 의료기기 책임 논의에서 특별보상제도 도입 필요성과 관련해 검토 대상으로 언급된 제도에는 무엇이 있나요?,True,True,1.0,0.629153847694397,0.6118654251098633,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0010
+q14,"인공지능 의료기기 용어를 통일하기 위해 국제 공통 지침안을 발간한 국제 협의체는 어디이고, 어떤 그룹이 이를 담당했나요?",True,True,2.0,0.6421655416488647,0.5788176536560059,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0015
+q15,인공지능 의료기기 중 새로운 데이터를 접해도 알고리즘이 바뀌지 않는 기기와 계속 변화하는 기기는 각각 무엇이라고 부르나요?,True,True,3.0,0.7368624210357666,0.6347046256065368,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0020
+q16,"인공지능 의료기기 규제 논의는 어떤 세 단계로 진행되어 왔고, 그중 아직도 논의가 진행 중인 단계는 무엇인가요?",True,True,2.0,0.5732245445251465,0.560299527645111,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0129
+q17,"미국에서 의료기기를 위험도에 따라 분류하는 등급 체계는 몇 단계로 되어 있고, 1976년 개정법으로 어떤 시판 전 평가 제도들이 도입되었나요?",True,True,1.0,0.7171590924263,0.5940158605575562,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0025
+q18,"미국에서 하드웨어 의료기기의 일부를 이루지 않으면서 의료 목적으로 쓰이는 소프트웨어는 어떤 개념으로 불리며, 기존의 SiMD와는 어떻게 구별되나요?",True,True,1.0,0.6756043434143066,0.6164226055145263,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0029
+q19,우리나라 식약처가 2017년에 마련한 AI 기술 적용 의료기기 허가·심사 가이드라인에서는 의료용 소프트웨어가 의료기기에 해당하는지를 어떤 기준으로 판단하나요?,True,True,1.0,0.7227683663368225,0.6530795216560363,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0036
+q20,"우리나라에서 의료기기로 분류되면 등급은 어떤 기준으로 나뉘고 몇 등급까지 있으며, 2등급 의료기기는 어떤 기관의 인증을 받아야 하나요?",True,True,2.0,0.5908118486404419,0.5563292503356934,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0025
+q21,우리나라에서 의료기기를 등급별로 분류할 때 2등급 의료기기는 어느 기관의 인증을 받아야 하나요?,True,True,3.0,0.5892730951309204,0.5661466836929321,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0025
+q22,이미 허가받은 의료기기와 본질적으로 동등하다고 판단하는 일반적인 기준은 무엇인가요?,True,True,1.0,0.52950519323349,0.5105634808540345,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0043
+q23,"지금까지 허가나 인증을 받은 인공지능 의료기기는 시판 후 환경에 따라 변화하지 않는 알고리즘이었는데, 이런 알고리즘을 무엇이라고 부르나요?",True,True,1.0,0.704169511795044,0.628866183757782,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0046
+q24,미국 FDA는 시판 후 성능을 최적화하는 인공지능 의료기기를 허용하기 위해 시판 전에 어떤 계획을 제출해 심사받도록 하는 방안을 논의하고 있나요?,True,True,6.0,0.6707054376602173,0.6470703840255737,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0045
+q25,인공지능 의료기기가 허가나 인증을 받은 뒤 우리나라 환자들이 실제로 혜택을 받으려면 어떤 추가 절차를 거쳐야 하나요?,True,True,1.0,0.6743656992912292,0.6117732524871826,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0050
+q26,AI 의료기술의 효과를 4단계로 구분하는 가이드라인에서 진료 업무 효율만 향상시키거나 기존 행위와 비슷한 진단능력만 가진 경우 별도 보상은 어떻게 되나요?,True,True,1.0,0.5934818983078003,0.47591511607170106,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0054
+q27,현행 법제에서 인공지능 의료기기가 잘못된 권고를 해서 환자에게 피해가 생기면 누구를 일차적인 책임 주체로 보게 되나요?,True,True,10.0,0.7064845561981201,0.6946593642234802,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0058
+q28,의료과오책임을 채무불이행책임으로 구성하든 불법행위책임으로 구성하든 환자 측이 증명해야 하는 것은 무엇인가요?,True,True,3.0,0.678998589515686,0.6347549200057984,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0101
+q29,AI 의료기기의 치료 권고를 그대로 따라 진료한 의사도 의료과오 책임을 질 수 있나요?,True,True,6.0,0.6282175779342651,0.5890629410743713,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0105
+q30,인공지능 의료기기의 권고를 그대로 믿고 진료한 의사도 의료수준에 미치지 못했다고 판단되면 책임을 질 수 있나요?,True,True,3.0,0.7330325841903687,0.7027513384819031,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0069
+q31,"현행 책임 법리를 그대로 적용하면 의사가 인공지능 의료기기를 어떻게 활용하는 것이 가장 안전하다고 보며, 그 결과 어떤 문제가 생기나요?",True,True,1.0,0.690338134765625,0.6704596400260925,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0069
+q32,"인공지능 영상의료판독에 자율주행자동차식 발전 단계별 책임 분석을 적용하는 것에 대해, 의사와 운전자의 지위 차이 측면에서 어떤 반론이 제기되나요?",True,True,1.0,0.7143449783325195,0.6076851725578308,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0071
+q33,인공지능 의료기기가 의사보다 일관되게 뛰어난 성능을 보이게 되면 의사의 주의의무 기준은 어떻게 달라질 수 있나요?,True,True,1.0,0.7694811820983887,0.6967750430107117,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0074
+q34,인공지능 의료기기의 성능이 인간 의사보다 뛰어나더라도 의사가 그 결정을 그대로 따르기만 해서는 안 되고 검증하고 필요시 무시하도록 해야 하는 이유는 무엇인가요?,True,True,1.0,0.7531158924102783,0.6960317134857178,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0075
+q35,의사가 인공지능 의료기기의 결정을 무조건 따라서 책임을 피하는 일이 없도록 하려면 의사에게 어떤 주의의무를 부과해야 하나요?,True,True,10.0,0.6945404410362244,0.6707481026649476,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0069
+q36,우리나라 판례는 환자가 의료행위를 스스로 선택하고 결정할 권리를 갖는 헌법상 근거를 무엇이라고 보나요?,True,True,3.0,0.6109699606895447,0.5558188319206238,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0085
+q37,우리나라 판례는 의사의 설명의무 위반을 판단할 때 위자료만 청구하는 경우와 모든 손해를 청구하는 경우를 어떻게 다르게 취급하나요?,True,True,2.0,0.6160083413124084,0.5347703397274017,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0085
+q38,의료행위의 후유증이나 부작용이 발생할 가능성이 희소한 경우에도 의사가 위험설명의무를 부담하는 때는 어떤 경우인가요?,True,True,6.0,0.6007567644119263,0.5639409065246582,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0091
+q39,"의사가 수술이나 수혈, 전신마취를 하면서 환자에게 설명하고 서면 동의를 받아야 하는 예외 상황은 어떤 경우인가요?",True,True,1.0,0.6208053827285767,0.5357315063476562,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0093
+q40,미국에서 인공지능 의료기기 사용 사실을 환자에게 밝히지 않았더라도 설명의무 위반이 인정될 수 있는 경우는 어떤 상황들인가요?,True,True,2.0,0.7368518114089966,0.6728412270545959,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0097
+o01,삼성전자 2026년 3분기 영업이익은 얼마야?,False,False,,0.3484375476837158,0.3325114488601685,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0129
+o02,NIPA AI 바우처 사업의 올해 접수 마감일은?,False,False,,0.36484140157699585,0.3387467324733734,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0054
+o03,엔비디아 최신 GPU 모델 이름이 뭐야?,False,False,,0.2845495939254761,0.24086787700653076,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0016
+o04,서울 강남구 맛집 추천해줘,False,False,,0.3013499081134796,0.21302788257598876,data\raw\Tech Legal Insights.pdf::chunk_0023
+o05,파이썬에서 리스트를 정렬하는 방법은?,False,False,,0.21197913587093353,0.20868888795375823,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0114
+o06,2026년 최저임금은 얼마야?,False,False,,0.2506422698497772,0.23145912885665892,data\raw\Tech Legal Insights.pdf::chunk_0010
+o07,루닛의 작년 매출액은?,False,False,,0.19630025327205658,0.17678648829460145,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0050
+o08,중소기업 R&D 바우처 신청 자격 요건,False,False,,0.3189619183540344,0.2936757206916809,data\raw\Tech Legal Insights.pdf::chunk_0023
+o09,EU AI Act 시행 일정은 어떻게 돼?,False,False,,0.44830113649368286,0.40548659563064576,data\raw\Tech Legal Insights.pdf::chunk_0016
+o10,의료기기 회사 채용 공고 있어?,False,False,,0.4031864106655121,0.3796362578868866,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0135
+o11,원격진료 수가는 얼마로 책정됐어?,False,False,,0.41681864857673645,0.3944924473762512,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0056
+o12,식약처장 이름이 뭐야?,False,False,,0.3244796395301819,0.28431392908096315,data\raw\Tech Legal Insights.pdf::chunk_0023
+o13,디지털헬스케어 스타트업 투자 유치 순위,False,False,,0.34387287497520447,0.27866509556770325,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0002
+o14,병원 전자의무기록(EMR) 시스템 도입 비용,False,False,,0.45291292667388916,0.44508361220359804,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0042
+o15,ChatGPT 의료 상담 정확도 연구 결과,False,False,,0.3857589364051819,0.3745530664920807,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0023
+o16,개인정보보호법상 가명정보 처리 절차,False,False,,0.430380254983902,0.3925777614116669,data\raw\Tech Legal Insights.pdf::chunk_0020
+o17,2026년 건강보험료율 인상폭,False,False,,0.4132869839668274,0.4025758922100067,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0053
+o18,한국 반도체 수출 실적 추이,False,False,,0.3111284375190735,0.3000731706619263,data\raw\Tech Legal Insights.pdf::chunk_0018
+o19,의료 AI 관련 국내 특허 출원 건수,False,False,,0.5363157391548157,0.5153990924358368,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0053
+o20,애플워치 심전도 기능 FDA 승인 시기,False,False,,0.5083621144294739,0.4960649907588959,data\raw\KCI_FI002904304(Medical AI regulation).pdf::chunk_0041

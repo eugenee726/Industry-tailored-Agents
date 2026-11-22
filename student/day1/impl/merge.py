@@ -13,12 +13,6 @@ def _top_results(items: List[Dict[str, Any]], k: int = 5) -> List[Dict[str, Any]
     - items가 None이면 [] 반환
     - k가 0 이하이면 [] 반환
     """
-    # ----------------------------------------------------------------------------
-    # TODO[DAY1-M-01] 구현 지침
-    #  - if not items: return []
-    #  - return items[: max(0, k)]
-    # ----------------------------------------------------------------------------
-    # 정답 구현:
     if not items:
         return []
     return items[: max(0, k)]
@@ -49,17 +43,6 @@ def merge_day1_payload(results: Dict[str, Any]) -> Dict[str, Any]:
         "errors":[...]
       }
     """
-    # ----------------------------------------------------------------------------
-    # TODO[DAY1-M-02] 구현 지침
-    #  - web_top = _top_results(results.get("items"), k=5)
-    #  - prices  = results.get("tickers", [])
-    #  - company_profile = results.get("company_profile") or ""
-    #  - profile_sources = results.get("profile_sources") or []
-    #  - errors = results.get("errors") or []
-    #  - query  = results.get("query", "")
-    #  - return {...} 형태로 표준 스키마 dict 생성
-    # ----------------------------------------------------------------------------
-    # 정답 구현:
     web_top = _top_results(results.get("items"), k=5)
     prices = results.get("tickers", [])
     company_profile = results.get("company_profile") or ""

@@ -11,7 +11,7 @@ from typing import Dict, Any, Optional
 from google.genai import types
 from google.adk.agents import Agent
 from google.adk.agents.callback_context import CallbackContext
-from google.adk.models.lite_llm import LiteLlm
+from student.common.llm import adk_model
 from google.adk.models.llm_request import LlmRequest
 from google.adk.models.llm_response import LlmResponse
 
@@ -24,7 +24,7 @@ from student.common.schemas import Day3Plan
 
 
 
-MODEL = LiteLlm(model="openai/gpt-4o-mini")
+MODEL = adk_model()  # Claude Sonnet 5.5 (student/common/llm.py)
 
 
 def _handle(query: str) -> Dict[str, Any]:
@@ -48,7 +48,6 @@ def before_model_callback(
     llm_request: LlmRequest,
     **kwargs,
 ) -> Optional[LlmResponse]:
-    # 정답 구현:
     try:
         last = llm_request.contents[-1]
         if last.role == "user":
@@ -71,9 +70,9 @@ def before_model_callback(
 
 
 day3_gov_agent = Agent(
-    name="Day3GovAgent",                        # <- 필요 시 수정
-    model=MODEL,                                # <- TODO[DAY3-A-01]에서 설정
-    description="정부사업 공고/바우처 정보 수집 및 표 제공",   # <- 필요 시 수정
+    name="Day3GovAgent",
+    model=MODEL,
+    description="정부사업 공고/바우처 정보 수집 및 표 제공",
     instruction="질의를 기반으로 정부/공공 포털에서 관련 공고를 수집하고 표로 요약해라.",
     tools=[],
     before_model_callback=before_model_callback,

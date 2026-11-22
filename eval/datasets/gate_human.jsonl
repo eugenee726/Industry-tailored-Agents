@@ -1,0 +1,28 @@
+{"id": "h_r01", "query": "업로드한 문서에서 AI 의료기기 정의 부분 요약해줘", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r02", "query": "내부 자료 기준으로 디지털의료기기 변경허가 기준이 뭐야?", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r03", "query": "논문 자료에서 인공지능 의료기기 책임 문제를 어떻게 다루는지 근거와 함께 알려줘", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r04", "query": "첨부 문서 내용 중 FDA 규제 연혁 정리", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r05", "query": "자료에 나온 신의료기술평가 절차 설명해줘", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r06", "query": "인공지능 의료기기 오작동 시 누가 책임져?", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r07", "query": "식약처 AI 디지털의료기기 허가 가이드라인 핵심이 뭐야", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r08", "query": "디지털의료제품법에서 디지털의료기기를 어떻게 정의해?", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r09", "query": "의사가 AI 판단을 override해야 하는 이유", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r10", "query": "AI 의료기기 무과실 보상제도 도입 논의 정리", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r11", "query": "문서 근거로 설명의무 위반과 AI 의료기기 관계 알려줘", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r12", "query": "회의록 자료에서 결정사항만 뽑아줘", "answerable": false, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r13", "query": "보고서 파일의 결론 부분 요약", "answerable": false, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r14", "query": "미국이랑 한국 AI 의료기기 허가 건수 비교한 내용 있어?", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r15", "query": "블랙박스 의료 AI 규제 쟁점", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r16", "query": "공동 사업 책임(common enterprise liability)이 뭐야", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r17", "query": "MLMD가 기존 의료용 소프트웨어와 다른 점", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_r18", "query": "참고 문서 기준으로 AI 의료기기 규제 3단계 진화 설명", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_a01", "query": "AI 의료기기 규제가 요즘 어떻게 바뀌고 있어?", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_a06", "query": "AI 진단 보조 소프트웨어 관련해서 알려줘", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_hr1", "query": "PCCP가 뭐고 왜 필요해?", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_hr2", "query": "AI 의료기기 등급 분류 기준", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_hr3", "query": "의료기기 2등급은 어디서 인증받아?", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_hr4", "query": "AI가 오진하면 의사 책임이야 제조사 책임이야?", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_hr5", "query": "생성형 AI 의료기기 허가 가이드라인 주요 내용", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_hr6", "query": "자료에서 요양급여 등재 절차 찾아줘", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_hr7", "query": "의료 AI 성능이 의사보다 좋으면 주의의무 기준이 바뀌나", "answerable": true, "evidence": "", "source": "human_written(routing set)"}
+{"id": "h_hr8", "query": "소프트웨어 업데이트하면 다시 허가받아야 해?", "answerable": true, "evidence": "", "source": "human_written(routing set)"}

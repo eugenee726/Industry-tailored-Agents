@@ -29,11 +29,14 @@ class WebResultItem:
 # -------------------------
 @dataclass
 class Day2Plan:
-    # 전부 기본값이 있으니 OK
+    # 임계값/검색 설정은 eval/run_gate.py, eval/run_retrieval.py 측정 결과로 결정 (eval/REPORT.md 참고)
     index_dir: str = "indices/day2"
     top_k: int = 5
-    min_score: float = 0.32
-    min_mean_topk: float = 0.30
+    min_score: float = 0.45          # dense top_score가 이 값 미만이면 거절 (답 있는 질문의 95% 이상 통과)
+    confident_score: float = 0.54    # 이 값 이상이면 경고 없이 답변 (평가셋에서 '답 없는 질문' 통과 0건)
+    min_mean_topk: float = 0.0       # 평균 점수 조건은 추가 이득이 없어 비활성화
+    hybrid: bool = True              # 벡터 + 문자 bigram BM25 (RRF)
+    generate: bool = True            # Claude로 근거 인용 답변 생성
     force_rag_only: bool = False
     return_draft_when_enough: bool = True
     max_context: int = 1200

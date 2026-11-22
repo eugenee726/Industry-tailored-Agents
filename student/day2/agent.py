@@ -12,7 +12,7 @@ import os
 from google.genai import types
 from google.adk.agents import Agent
 from google.adk.agents.callback_context import CallbackContext
-from google.adk.models.lite_llm import LiteLlm
+from student.common.llm import adk_model
 from google.adk.models.llm_request import LlmRequest
 from google.adk.models.llm_response import LlmResponse
 
@@ -22,30 +22,14 @@ from student.common.schemas import Day2Plan
 from student.common.fs_utils import save_markdown
 
 
-#모델 선택
-MODEL = LiteLlm(model="openai/gpt-4o-mini")
+MODEL = adk_model()  # Claude Sonnet 5.5 (student/common/llm.py)
+_AGENT = Day2Agent()  # 인덱스/BM25를 한 번만 로드해 재사용
 
 
 def _handle(query: str) -> Dict[str, Any]:
-    """
-    1) plan = Day2Plan()  (필요 시 top_k 등 파라미터 명시)
-    2) agent = Day2Agent(index_dir=os.getenv("DAY2_INDEX_DIR","indices/day2"))
-    3) return agent.handle(query, plan)
-    """
-
-    index_dir = os.getenv("DAY2_INDEX_DIR", "indices/day2")
-    plan = Day2Plan(
-        index_dir=index_dir,
-        min_score=0.2,
-        min_mean_topk=0.2,
-        return_draft_when_enough=True,
-        force_rag_only=False,      # 강제로 RAG만 쓰고 싶으면 True
-        top_k=5,
-        max_context=1200,
-    )
-    agent = Day2Agent()
-    payload = agent.handle(query, plan)
-    return payload
+    """기본 설정(Day2Plan 기본값 = 평가로 정한 값)으로 RAG 실행"""
+    plan = Day2Plan(index_dir=os.getenv("DAY2_INDEX_DIR", "indices/day2"))
+    return _AGENT.handle(query, plan)
 
 
 def before_model_callback(

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Day3 - 나라장터(PPS) 공고 탐색 에이전트 (강사용/답지)
+Day3 - 나라장터(PPS) 공고 탐색 에이전트
 - pps_api.pps_fetch_bids 를 호출해 GovNotice 스키마로 결과를 만들고,
   표준 dict로 반환 (LLM은 메타데이터 정리용으로만 지정)
 """

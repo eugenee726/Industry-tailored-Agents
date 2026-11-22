@@ -1,0 +1,24 @@
+{"id": "hw1", "query": "카카오 주가 요즘 왜 이래", "expected": "Day1WebAgent", "difficulty": "hard"}
+{"id": "hw2", "query": "SK하이닉스 HBM 관련 최근 기사", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "hw3", "query": "의료 AI 기업 중 올해 상장한 곳", "expected": "Day1WebAgent", "difficulty": "hard"}
+{"id": "hw4", "query": "어제 나스닥 마감 상황", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "hw5", "query": "앤트로픽이 최근 공개한 모델 소식", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "hw6", "query": "셀바스AI는 무슨 사업을 해?", "expected": "Day1WebAgent", "difficulty": "hard"}
+{"id": "hw7", "query": "식약처가 이번 주 발표한 보도자료", "expected": "Day1WebAgent", "difficulty": "hard"}
+{"id": "hw8", "query": "GOOGL 52주 최고가", "expected": "Day1WebAgent", "difficulty": "easy"}
+{"id": "hr1", "query": "PCCP가 뭐고 왜 필요해?", "expected": "Day2RagAgent", "difficulty": "hard"}
+{"id": "hr2", "query": "AI 의료기기 등급 분류 기준", "expected": "Day2RagAgent", "difficulty": "hard"}
+{"id": "hr3", "query": "의료기기 2등급은 어디서 인증받아?", "expected": "Day2RagAgent", "difficulty": "hard"}
+{"id": "hr4", "query": "AI가 오진하면 의사 책임이야 제조사 책임이야?", "expected": "Day2RagAgent", "difficulty": "hard"}
+{"id": "hr5", "query": "생성형 AI 의료기기 허가 가이드라인 주요 내용", "expected": "Day2RagAgent", "difficulty": "hard"}
+{"id": "hr6", "query": "자료에서 요양급여 등재 절차 찾아줘", "expected": "Day2RagAgent", "difficulty": "easy"}
+{"id": "hr7", "query": "의료 AI 성능이 의사보다 좋으면 주의의무 기준이 바뀌나", "expected": "Day2RagAgent", "difficulty": "hard"}
+{"id": "hr8", "query": "소프트웨어 업데이트하면 다시 허가받아야 해?", "expected": "Day2RagAgent", "difficulty": "hard"}
+{"id": "hg1", "query": "AI 반도체 실증 지원 과제 모집", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "hg2", "query": "의료기기 임상 지원금 받을 수 있는 데 있어?", "expected": "Day3GovAgent", "difficulty": "hard"}
+{"id": "hg3", "query": "중기부 스마트공장 보급사업 신청", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "hg4", "query": "공공기관 AI 도입 사업 입찰", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "hg5", "query": "초기 스타트업 사업화 자금 지원 프로그램", "expected": "Day3GovAgent", "difficulty": "hard"}
+{"id": "hg6", "query": "헬스케어 데이터 바우처 공급기업 모집", "expected": "Day3GovAgent", "difficulty": "easy"}
+{"id": "hg7", "query": "AI 의료기기 인허가 받으려는 기업 대상 정부 지원", "expected": "Day3GovAgent", "difficulty": "hard"}
+{"id": "hg8", "query": "다음 달 마감되는 R&D 과제 뭐 있어", "expected": "Day3GovAgent", "difficulty": "hard"}
