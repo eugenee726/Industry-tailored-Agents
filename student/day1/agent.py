@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Day1: 웹+주가+기업개요 에이전트 (강사용/답지 버전)
+Day1: 웹+주가+기업개요 에이전트
 - 역할: 사용자 질의를 받아 Day1 본체 호출 → 결과 렌더 → 파일 저장(envelope) → 응답
 - 본 파일은 "UI용 래퍼"로, 실질적인 수집/요약 로직은 impl/agent.py 등에 있음.
 
@@ -14,7 +14,7 @@ import re
 from google.genai import types
 from google.adk.agents import Agent
 from google.adk.agents.callback_context import CallbackContext
-from google.adk.models.lite_llm import LiteLlm
+from student.common.llm import adk_model
 from google.adk.models.llm_request import LlmRequest
 from google.adk.models.llm_response import LlmResponse
 
@@ -24,47 +24,46 @@ from student.common.fs_utils import save_markdown
 from student.day1.impl.agent import Day1Agent
 from student.day1.impl.web_search import looks_like_ticker
 
-# ------------------------------------------------------------------------------
-# TODO[DAY1-A-01] 모델 선택
-#  목적:
-#    - Day1 래퍼에서 간단한 텍스트 가공(필요 시)나 메타 로직에 쓰일 수 있는 경량 LLM을 지정.
-#    - 주 로직은 impl에 있으므로, 여기서는 가벼운 모델이면 충분.
-#  지침:
-#    - LiteLlm(model="openai/gpt-4o-mini")와 같이 할당.
-#    - 모델 문자열은 환경/과금에 맞춰 수정 가능.
-# ------------------------------------------------------------------------------
-# 정답 구현(예시):
-MODEL = LiteLlm(model="openai/gpt-4o-mini")
+MODEL = adk_model()  # Claude Sonnet 5.5 (student/common/llm.py)
+
+
+# 대문자 약어지만 종목 티커가 아닌 단어들 (오인식 방지)
+_NON_TICKER_WORDS = {
+    "AI", "CEO", "CTO", "CFO", "IT", "ETF", "ESG", "IPO", "FDA", "USA", "US", "UK", "EU", "KR",
+    "SW", "HW", "API", "LLM", "GPT", "RAG", "PDF", "RFP", "NIPA", "KCI", "CES", "SAAS", "MOU",
+    "IOT", "VR", "AR", "XR", "DX", "AX", "GDP", "CPI", "PER", "PBR", "ROE", "EPS", "KOSPI",
+    "MLMD", "SAMD", "UI", "UX", "QA", "PM", "HR", "B2B", "B2C", "OK", "PPS", "KEIT", "NTIS",
+}
+_STOCK_INTENT = re.compile(r"주가|시세|주식|종가|시총|시가총액|티커|stock|price|quote", re.I)
 
 
 def _extract_tickers_from_query(query: str) -> List[str]:
     """
-    사용자 질의에서 '티커 후보'를 추출합니다.
-    예시:
+    사용자 질의에서 티커 후보를 추출한다.
       - "AAPL 주가 알려줘"      → ["AAPL"]
       - "삼성전자 005930 분석"  → ["005930"]
       - "NVDA/TSLA 비교"       → ["NVDA", "TSLA"]
-    구현 포인트:
-      1) 두 타입 모두 잡아야 함
-         - 영문 대문자 1~5자 (미국 티커 일반형) + 선택적 .XX (예: BRK.B 처럼 도메인 일부가 있을 수 있으나, 여기선 단순히 대문자 1~5자를 1차 타깃)
-         - 숫자 6자리 (국내 종목코드)
-      2) 중복 제거(순서 유지)
-      3) 불필요한 특수문자 제거 후 패턴 매칭
+      - "ai 의학에 대해 알려줘" → []   (이전 구현은 query.upper() 때문에 "AI"를 티커로 오인식)
+
+    규칙:
+      1) 원문에서 '대문자로 쓴' 영문 1~5자 토큰만 후보 (소문자 단어를 대문자화하지 않음)
+      2) 한글이 바로 붙은 경우도 허용 ("AAPL주가")
+      3) 흔한 약어(AI, CEO, FDA, NIPA...)는 제외
+      4) 1글자 토큰(F, T 등)은 '주가/시세' 같은 주식 의도 단어가 있을 때만 인정 ("R&D" 오인식 방지)
+      5) 6자리 숫자는 국내 종목코드
     """
+    has_intent = bool(_STOCK_INTENT.search(query))
+    alpha_hits = re.findall(r"(?<![A-Za-z0-9&])[A-Z]{1,5}(?![A-Za-z0-9&])", query)
+    alpha_hits = [
+        t for t in alpha_hits
+        if t not in _NON_TICKER_WORDS and (len(t) >= 2 or has_intent)
+    ]
+    digit_hits = re.findall(r"(?<!\d)\d{6}(?!\d)", query)
 
-    cleaned = re.sub(r"[\/,\|]", " ", query.upper())
-
-    alpha_hits = re.findall(r"\b[A-Z]{1,5}\b", cleaned)   # 예: AAPL, NVDA, TSLA
-    digit_hits = re.findall(r"\b\d{6}\b", cleaned)        # 예: 005930
-
-    merged = alpha_hits + digit_hits  # 지침에 따라 두 번 찾은 뒤 순차 결합
-    # 중복 제거(앞쪽 우선 유지)
     deduped: List[str] = []
-    seen = set()
-    for sym in merged:
-        if sym not in seen:
+    for sym in alpha_hits + digit_hits:
+        if sym not in deduped:
             deduped.append(sym)
-            seen.add(sym)
     return deduped
 
 

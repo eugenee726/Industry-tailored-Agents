@@ -32,7 +32,6 @@ try:
     load_dotenv(ENV_PATH, override=False)
 except Exception:
     _manual_load_env(ENV_PATH)
-# ------------------------------------------------------------------------------
 
 from student.day1.impl.web_search import (
     search_company_profile,

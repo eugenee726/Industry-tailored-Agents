@@ -1,0 +1,30 @@
+{"query": "AAPL 주가 알려줘", "gold": ["AAPL"]}
+{"query": "NVDA/TSLA 비교", "gold": ["NVDA", "TSLA"]}
+{"query": "삼성전자 005930 분석", "gold": ["005930"]}
+{"query": "MSFT랑 GOOGL 시총 비교", "gold": ["MSFT", "GOOGL"]}
+{"query": "AAPL주가 어때", "gold": ["AAPL"]}
+{"query": "000660 SK하이닉스 시세", "gold": ["000660"]}
+{"query": "AMZN 최근 뉴스", "gold": ["AMZN"]}
+{"query": "F 주가", "gold": ["F"]}
+{"query": "META, NFLX 실적", "gold": ["META", "NFLX"]}
+{"query": "035420 네이버 종가", "gold": ["035420"]}
+{"query": "TSLA 테슬라 전망", "gold": ["TSLA"]}
+{"query": "AMD 반도체 동향", "gold": ["AMD"]}
+{"query": "ai 의학에 대해 알려줘", "gold": []}
+{"query": "AI 의료기기 규제 동향", "gold": []}
+{"query": "CEO 인터뷰 기사 찾아줘", "gold": []}
+{"query": "FDA 승인 AI 기기 뉴스", "gold": []}
+{"query": "ESG 경영 트렌드", "gold": []}
+{"query": "R&D 지원사업 공고", "gold": []}
+{"query": "NIPA 바우처 모집", "gold": []}
+{"query": "생성형 ai 시장 전망", "gold": []}
+{"query": "IT 업계 채용 동향", "gold": []}
+{"query": "ETF 투자 트렌드", "gold": []}
+{"query": "2026년 반도체 수출 동향", "gold": []}
+{"query": "openai 최신 발표", "gold": []}
+{"query": "LLM 기반 RAG 서비스 사례", "gold": []}
+{"query": "IPO 예정 기업 목록", "gold": []}
+{"query": "US 금리 전망", "gold": []}
+{"query": "헬스케어 AI 스타트업 뉴스", "gold": []}
+{"query": "API 연동 가이드", "gold": []}
+{"query": "the latest news on apple", "gold": []}

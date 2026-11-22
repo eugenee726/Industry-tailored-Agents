@@ -1,3 +1,23 @@
 .env
 venv/
 __pycache__/
+# Python
+*.pyc
+
+# Local runtime / tool state
+.adk/
+.claude/
+.DS_Store
+
+# Nested local repo copy
+/Industry-tailored-Agents/
+
+# 저작권 문서: 출처는 README 참고, 로컬에만 보관
+data/raw/*.pdf
+
+# 개인 포트폴리오 원고 (GitHub 비공개)
+PORTFOLIO.md
+
+# 원문 전문이 들어 있는 파일 (data/raw PDF로 재구축)
+indices/
+eval/results/faithfulness_contexts.md

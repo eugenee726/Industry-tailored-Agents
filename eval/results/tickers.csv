@@ -1,0 +1,3 @@
+﻿version,precision,recall,exact_match,false_positive_queries,n
+before,0.371,0.867,0.4,16,30
+after,0.938,1.0,0.967,1,30
